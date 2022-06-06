@@ -144,6 +144,7 @@ def get_genres():
 
 def genre_data_organization():
     data = get_genres()
+    # pprint(sorted(data.items(),key=lambda item: item[1], reverse=True))
     values_list = list(data.values())
     popularity = {}
     most_popular = []
@@ -270,16 +271,16 @@ print("The longest song was "+str(longest_track//60) +
       " minutes and "+str(longest_track % 60)+" seconds long.")
 print("The shortest song was "+str(shortest_track//60) +
       " minute and "+str(shortest_track % 60)+" seconds long.")
-print(f"There were {cover_num} cover songs.")
+print(f"There were around {cover_num} cover songs.")
 print("")
 print(f"You have {len(podcast_data)} podcast episodes saved that are in total {podcast_hours} hours long.")
-print(f"Those episodes represent {len(shows.keys())} different shows.")
+print(f"Those episodes are from {len(shows.keys())} different shows.")
 
 for i in range(2):
     print("")
 
 show = True
-if True:
+if False:
     plt.title("Most Liked Songs")
     plt.ylabel("Number of Songs in Playlist")
     plt.bar(popular_artists, artist_uses)

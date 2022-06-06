@@ -133,10 +133,10 @@ def read_data(divider):
             "formatted_name": formatted_name,
             "release_date": release_date
         })
-    length = len(df)
-    df.drop_duplicates(inplace=True)
-    if length > len(df):
-        print("There were "+str(length-len(df))+" copies")
+    # length = len(df)
+    # df.drop_duplicates(inplace=True)
+    # if length > len(df):
+    #     print("There were "+str(length-len(df))+" copies")
     return df
 
 
