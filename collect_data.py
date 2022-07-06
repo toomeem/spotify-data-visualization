@@ -191,7 +191,7 @@ def podcasts(sp):
 
 
 ID = "b95f6a39d55e4ee4bb0a1e7e64ccaf2b"
-SECRET = "844a8b6252b84c9f9790206b5eb726b4"
+SECRET = "828dbd9fd66b4c7b9041257c14c22e02"
 divider = "|"
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=ID, client_secret=SECRET,
