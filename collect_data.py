@@ -16,7 +16,8 @@ def format_name(name):
     name = name.split(" (")[0]
     name = name.split(" - ")[0]
     name = name.split(" / ")[0]
-    while name[-1] == " ":
+    name = name.split(" Remastered")[0]
+    while name[-1] in [" ", "/", "\\"]:
         name = name[:-1]
     return name
 
@@ -147,11 +148,13 @@ def remaster(sp, data):
 
     def release_date(i): return int(dict(i["album"])["release_date"][:4])
     for i in range(len(data)):
-        name = data["raw_name"][i].lower()
+        name = data["formatted_name"][i].lower()
         artist = list(eval(data["artists"][i]).keys())[0].lower()
         q = f"artist:'{artist}' track:'{name}'"
-        results = list(
-            dict(sp.search(q=q.encode(), type="track", market="US")["tracks"])["items"])
+        try:
+            results = list(dict(sp.search(q=q.encode(), type="track", market="US")["tracks"])["items"])
+        except:
+            continue
         if results == []:
             continue
         first_release = release_date(results[0])

@@ -280,7 +280,7 @@ for i in range(2):
     print("")
 
 show = True
-if False:
+if True:
     plt.title("Most Liked Songs")
     plt.ylabel("Number of Songs in Playlist")
     plt.bar(popular_artists, artist_uses)
