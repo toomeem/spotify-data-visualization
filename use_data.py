@@ -1,3 +1,4 @@
+from distutils.log import FATAL
 from tkinter.tix import Tree
 import matplotlib
 import spotipy
@@ -284,31 +285,31 @@ if True:
     plt.title("Most Liked Songs")
     plt.ylabel("Number of Songs in Playlist")
     plt.bar(popular_artists, artist_uses)
-elif False:
+elif True:
     plt.title("Longest and Shortest Songs")
     plt.ylabel("Song Duration(Seconds)")
     plt.bar(duration_names, durations)
-elif False:
+elif True:
     plt.title("Most Popular Genres")
     plt.ylabel("Number of Liked Genres")
     plt.bar(popular_genres, genres_uses)
-elif False:
+elif True:
     plt.title("Number of Explicit Songs", pad=40)
     plt.pie(x=explicits.values(), labels=explicits.keys(), radius=1.3,
         autopct=lambda pct: auto_pct(pct, list(explicits.values())),)
-elif False:
+elif True:
     plt.title("Number of Covers")
     plt.pie(x=[len(data)-cover_num, cover_num], labels=["Originals", "Covers"], pctdistance=.85,
         autopct=lambda pct: auto_pct(pct, [len(data)-cover_num, cover_num]))
-elif False:
+elif True:
     plt.title("Songs from Each Decade", pad=40, fontdict={'fontsize': 20})
     plt.pie(x=release_nums, labels=release_decades, autopct=lambda pct: auto_pct(pct, release_nums),
         pctdistance=.85, labeldistance=1.05)
-elif False:
+elif True:
     plt.title("Number of Episodes")
     plt.pie(x=shows.values(), labels=shows.keys(),
         autopct=lambda pct: auto_pct(pct, list(shows.values())))
-elif False:
+elif True:
     plt.title("Runtime (minutes)")
     plt.pie(x=show_duration_dict.values(), labels=show_duration_dict.keys(),
         autopct=lambda pct: auto_pct(pct, list(show_duration_dict.values())))

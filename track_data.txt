@@ -1,3 +1,65 @@
+Rock This Town|{'Stray Cats': '2ibPkysx2PXqWLmxFD7jSg'}|207000|2SknHmwY6GiOv6aK7YRahd|False|Rock This Town|1982
+The Diary Of Jane|{'Breaking Benjamin': '5BtHciL0e0zOP7prIHn3pP'}|200213|5m9uiFH9sK5wxRZdfN62n9|False|The Diary Of Jane|2011
+Time After Time|{'Cyndi Lauper': '2BTZIqw0ntH9MvilQ3ewNY'}|241333|7o9uu2GDtVDr9nsR7ZRN73|False|Time After Time|1983
+Love Sosa|{'Chief Keef': '15iVAtD3s3FsQR4w1v6M0P'}|246213|01Lr5YepbgjXAWR9iOEyH1|True|Love Sosa|2012
+Oogum Boogum Song|{'Brenton Wood': '6ohvzFHYmLd05kyYhLui5K'}|186567|4WiGGTl7Kt5vnjQHqwLJy1|False|Oogum Boogum Song|1967
+Wild Child|{'The Black Keys': '7mnBLXK823vNxN3UWB7Gfz'}|164866|0dgAZ1j5irH1FlA5WrpHW4|False|Wild Child|2022
+Crazy Train|{'Ozzy Osbourne': '6ZLTlhejhndI4Rh53vYhrY'}|293183|7ACxUo21jtTHzy7ZEV56vU|False|Crazy Train|2020
+Silver Bird|{'Mark Lindsay': '7kEOMdsEmZkTHgA4ibDz4h'}|183986|5ZV1ZPGSSOkdRG60uTtEmX|False|Silver Bird|1970
+Heaven Beside You|{'Alice In Chains': '64tNsm6TnZe2zpcMVMOoHL'}|327893|1DCdIWCE5UFiObCsTSpKFv|True|Heaven Beside You|1995
+Atlanta|{'Stone Temple Pilots': '2UazAtjfzqBF0Nho2awK4z'}|318840|73WEZ2qitNdBiUEhtckC6G|False|Atlanta|1999
+Cities On Flame with Rock and Roll|{'Blue Öyster Cult': '00tVTdpEhQQw1bqdu8RCx2'}|242640|0M7oqERflkrJVHD3IAZqxo|False|Cities On Flame with Rock and Roll|1972
+You Are My Sunshine|{'Johnny Cash': '6kACVPfCOnqzgfEF5ryl0x'}|196733|76pllrWpfiCoLGhijQBYhO|False|You Are My Sunshine|2003
+Everybody Hurts|{'R.E.M.': '4KWTAlx2RvbpseOGMEmROg'}|320266|6PypGyiu0Y2lCDBN1XZEnP|False|Everybody Hurts|1992
+How to Save a Life|{'The Fray': '0zOcE3mg9nS6l3yxt1Y0bK'}|262533|5fVZC9GiM4e8vu99W0Xf6J|False|How to Save a Life|2005
+Like a Stone|{'Audioslave': '2ziB7fzrXBoh1HUPS6sVFn'}|293960|3YuaBvuZqcwN3CEAyyoaei|False|Like a Stone|2002
+Mrs. Robinson - From "The Graduate" Soundtrack|{'Simon & Garfunkel': '70cRZdQywnSFp9pnc2WTCE'}|244026|0iOZM63lendWRTTeKhZBSC|False|Mrs. Robinson|1968
+The Sound of Silence|{'Simon & Garfunkel': '70cRZdQywnSFp9pnc2WTCE'}|184786|3YfS47QufnLDFA71FUsgCM|False|The Sound of Silence|2012
+One More Light|{'Linkin Park': '6XyY86QOPPrYVGvF9ch6wz'}|255066|3xXBsjrbG1xQIm1xv1cKOt|False|One More Light|2017
+Puff, the Magic Dragon|{'Peter, Paul and Mary': '6yrBBtqX2gKCHCrZOYBDrB'}|206866|3hqsBLMAqJqrhr434Z7WlA|False|Puff, the Magic Dragon|1963
+High Hopes|{'Pink Floyd': '0k17h0D3J5VfsdmQ1iZtE9'}|510964|5a4MgIUSf9K8wXLSm6xPEx|False|High Hopes|1994
+Just a Song Before I Go|{'Crosby, Stills & Nash': '2pdvghEHZJtgSXZ7cvNLou'}|133960|4dAN7KcWCWx5jV6dpwtfvN|False|Just a Song Before I Go|1977
+Pictures of You|{'The Cure': '7bu3H8JO7d0UbMoVzbo70s'}|288026|5CgHsJyqFuW1U0E3d4Eyi6|False|Pictures of You|1997
+Janie's Got A Gun|{'Aerosmith': '7Ey4PD4MYsKc5I2dolUwbH'}|330533|5fMwvrqujbQjUxcNPcYrUF|False|Janie's Got A Gun|1994
+Pink|{'Aerosmith': '7Ey4PD4MYsKc5I2dolUwbH'}|235360|74uGhWp4BYpjFj1V2DzgoO|False|Pink|1997
+Trouble|{'Lindsey Buckingham': '3Dzj993UEz8Z5ovxuirzFO'}|236533|04ijIUVdT4Qy1SBWFUPROY|False|Trouble|1981
+Katmandu|{'Bob Seger': '485uL27bPomh29R4JmQehQ'}|367653|6KGv5DEe1uzWSGFBhyEZ5u|False|Katmandu|1975
+Don't Give Up - 2012 Remaster|{'Peter Gabriel': '7C4sUpWGlTy7IANjruj02I'}|393586|1wKkRvZnuVde5OYhKwTMeY|False|Don't Give Up|1986
+No Surprises|{'Radiohead': '4Z8W4fKeB5YxbusRsdQVPb'}|229120|10nyNJ6zNy2YVYLrcwLccB|False|No Surprises|1997
+Karma Police|{'Radiohead': '4Z8W4fKeB5YxbusRsdQVPb'}|264066|63OQupATfueTdZMWTxW03A|False|Karma Police|1997
+Exit Music (For A Film)|{'Radiohead': '4Z8W4fKeB5YxbusRsdQVPb'}|267186|0z1o5L7HJx562xZSATcIpY|False|Exit Music|1997
+Unconditional II (Race and Religion) (feat. Peter Gabriel)|{'Arcade Fire': '3kjuyTCjPG1WMFCiyc5IuB', 'Peter Gabriel': '7C4sUpWGlTy7IANjruj02I'}|260653|0C1u7POtLWpGFLCxzgToHq|False|Unconditional II|2022
+L.A. Woman|{'The Doors': '22WZ7M8sxp5THdruNY3gXt'}|471160|6DmfWj5kOa1fX8AwN9byOn|False|L.A. Woman|1971
+Love Reign O'er Me|{'The Who': '67ea9eGLXYMsO2eYQRui3w'}|349600|4Mqs0h95KAeNiGp7u4udlt|False|Love Reign O'er Me|1973
+Für Elise, WoO 59|{'Ludwig van Beethoven': '2wOqMjp9TyABvtHdOSOTUS', 'Nelly Kokinos': '6hpRhyx59f3xKAAQayjuCR'}|188466|6MQAB3vorg90FA3tQpbYXK|False|Für Elise, WoO 59|1991
+Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio|{'Ludwig van Beethoven': '2wOqMjp9TyABvtHdOSOTUS', 'Wiener Philharmoniker': '003f4bk13c6Q3gAUXv7dGJ', 'Carlos Kleiber': '6aL4ovuNuBg7rmrPjOTIUN'}|442000|6cUCckpdlqHJ5Ascf2uH2A|False|Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio|1995
+Waterloo Sunset|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|193106|4qSk2aeaE2dh5ZOP0JdaV3|False|Waterloo Sunset|2008
+Crazy In Love (feat. Jay-Z)|{'Beyoncé': '6vWDO969PvNqNYHIOW5v0m', 'JAY-Z': '3nFkdlSjzX9mRTtwJOzDYB'}|236133|5IVuqXILoxVWvWEPm82Jxr|False|Crazy In Love|2003
+Strange Fruit|{'Billie Holiday': '1YzCsTRb22dQkh9lghPIrp'}|192866|1CTex49P0iWwzUGsMNjgaV|False|Strange Fruit|1957
+A Day In The Life - Remastered 2009|{'The Beatles': '3WrFJ7ztbogyGnTHbHJFl2'}|337413|0hKRSZhUGEhKU6aNSPBACZ|False|A Day In The Life|1967
+Purple Rain|{'Prince': '5a2EaR3hamoenG9rDuVn8j'}|520786|54X78diSLoUDI3joC2bjMz|False|Purple Rain|1984
+Runaway|{'Kanye West': '5K4W6rqBFWDnAN6FQUkS6x', 'Pusha T': '0ONHkAv9pCAFxb0zJwDNTy'}|547733|3DK6m7It6Pw857FcQftMds|True|Runaway|2010
+Nothin' but a 'G' Thang (Originally Performed By Dr. Dre feat. Snoop Dogg) [Instrumental Version]|{'DJ Remix Radio': '4wnJxEzYSSW6Q4Nsn4BU3G'}|238921|0psDiMIMASVBWbSEasO4zM|True|Nothin' but a 'G' Thang|2015
+Tutti Frutti|{'Little Richard': '4xls23Ye9WR9yy3yYMpAMm'}|144226|2iXcvnD3d1gfLBum0cE5Eg|False|Tutti Frutti|1957
+Royals|{'Lorde': '163tK9Wjr9P9DmM0AVK7lm'}|190185|2dLLR6qlu5UJ5gk0dKz0h3|False|Royals|2013
+B.O.B. - Bombs Over Baghdad|{'Outkast': '1G9G7WwrXka3Z1r7aIDjI7'}|304226|3WibbMr6canxRJXhNtAvLU|True|B.O.B.|2000
+Love Will Tear Us Apart - 2020 Remaster|{'Joy Division': '432R46LaYsJZV2Gmc4jUV5'}|208453|34iOH7LY3vme5rQxsVILZ4|False|Love Will Tear Us Apart|1980
+Paper Planes|{'M.I.A.': '0QJIPDAEDILuo8AIq3pMuU'}|205200|1ixbwbeBi5ufN4noUKmW5a|False|Paper Planes|2007
+Doo Wop (That Thing)|{'Ms. Lauryn Hill': '2Mu5NfyYm8n5iTomuKAEHl'}|320266|0uEp9E98JB5awlA084uaIg|False|Doo Wop|1998
+Redemption Song|{'Bob Marley & The Wailers': '2QsynagSdAqZj3U9HgDzjD'}|233560|26PwuMotZqcczKLHi4Htz3|False|Redemption Song|1980
+Walk on By|{'Dionne Warwick': '2JSjCHK79gdaiPWdKiNUNp'}|178333|3xsOtNxtBW0oTI1OWKAzTm|False|Walk on By|1964
+Wake Up|{'Tim Armstrong': '7v3ZMFl1E6X4isdEaOSnk3'}|181826|1CnU1qewM7glU79O4VSlWX|False|Wake Up|2007
+Rudies All Around|{'Hepcat': '79pQC5STz5lsGdkJ0NHmGp'}|255666|19cmDLWfcK6nkwXK3Tfv5x|False|Rudies All Around|1998
+Beer|{'Reel Big Fish': '3bXhZFreBJF4QDUUiMmtZW'}|210533|7qEm8Z4KFLdCMlv96KykVd|False|Beer|1996
+Happier|{'Marshmello': '64KEffDW9EtZ1y2vBYgq8T', 'Bastille': '7EQ0qTo7fWT7DPxmxtSYEc'}|214289|2dpaYNEQHiRxtZbfNsse99|False|Happier|2018
+Sir Duke|{'Stevie Wonder': '7guDJrEfX3qb6FEbdPA5qi'}|232760|4pNiE4LCVV74vfIBaUHm1b|False|Sir Duke|1976
+Breakfast At Tiffany's|{'Deep Blue Something': '5N5RfI8FFXk4WQ8kkjE407'}|257373|1uzWOoJdADfstQuFtQFTUn|False|Breakfast At Tiffany's|1995
+Centuries|{'Fall Out Boy': '4UXqAaa6dQYAk18Lv7PEgX'}|228360|04aAxqtGp5pv12UXAg4pkq|False|Centuries|2015
+Pompeii|{'Bastille': '7EQ0qTo7fWT7DPxmxtSYEc'}|214147|3gbBpTdY8lnQwqxNCcf795|False|Pompeii|2013
+Tusk|{'Fleetwood Mac': '08GQAI4eElDnROBrJRGE0X'}|210173|1iKVDnBTqmZErf96ldGrZe|False|Tusk|1988
+Black Cat Wailing At the Moon|{'Hysteria': '5KPPIs7h2H4mF3kSTf8bGM'}|235687|5WYehxBEiqCsisW4a8o3kz|True|Black Cat Wailing At the Moon|2013
+We Made You|{'Eminem': '7dGJo4pcD2V6oG8kP0tJRR'}|269613|4UMTp91LHhvW33ol9ZQH0Q|False|We Made You|2009
+Peacekeeper|{'Fleetwood Mac': '08GQAI4eElDnROBrJRGE0X'}|250760|47QCcoUKxDP1vuli0LwT8G|False|Peacekeeper|2003
 I Wish|{'Skee-Lo': '55Pp4Ns5VfTSFsBraW7MQy'}|249293|3LklW07tvdx2AHsgfi1Mng|False|I Wish|1995
 No Woman, No Cry|{'Fugees': '2WKdxPFRD7IqZvlIAvhMgY', 'Wyclef Jean': '7aBzpmFXB4WWpPl2F7RjBe'}|273093|5bUVHuzQh5mkvMPjUU074i|False|No Woman, No Cry|1996
 My Kinda Lover - Remastered|{'Billy Squier': '3Fz2GbraVXhcpXnoi2Oe1r'}|213533|6g14FUj5zU9FDRwBi963vS|False|My Kinda Lover|1981
@@ -6,7 +68,6 @@ Your Mama Don't Dance|{'Loggins & Messina': '7emRV8AluG3d4e5T0DZiK9'}|167520|6rx
 The Ballad Of John And Yoko - Remastered 2015|{'The Beatles': '3WrFJ7ztbogyGnTHbHJFl2'}|179480|1F7s27lLKshLPt9TPCgMDL|False|The Ballad Of John And Yoko|2000
 Sing For The Moment|{'Eminem': '7dGJo4pcD2V6oG8kP0tJRR'}|339546|3CpoeW0cZSDzIRv5z34F87|True|Sing For The Moment|2002
 Money Trees|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg', 'Jay Rock': '28ExwzUQsvgJooOI0X1mr3'}|386906|2HbKqm4o0w5wEeEFXm2sD4|True|Money Trees|2012
-Rock This Town|{'Stray Cats': '2ibPkysx2PXqWLmxFD7jSg'}|207000|2SknHmwY6GiOv6aK7YRahd|False|Rock This Town|1982
 Family Affair - Single Version|{'Sly & The Family Stone': '5m8H6zSadhu1j9Yi04VLqD'}|185533|2GVEs1sn5Q1jB1976vQoAX|False|Family Affair|1971
 The Message (feat. Melle Mel & Duke Bootee)|{'Grandmaster Flash & The Furious Five': '5hQCwevTf03u1rECrRMeop', 'Grandmaster Melle Mel': '0AWhixY9hX7LEPyPMjh4O0', 'Duke Bootee': '4DW1Qbu1D3gD9lQEjHurAk'}|431800|5DuTNKFEjJIySAyJH1yNDU|False|The Message|1982
 Running Up That Hill (A Deal With God) - 2018 Remaster|{'Kate Bush': '1aSxMhuvixZ8h9dK9jIDwL'}|300840|29d0nY7TzCoi22XBqDQkiP|False|Running Up That Hill|1985
@@ -48,6 +109,7 @@ Sister Golden Hair|{'America': '35U9lQaRWSQISxQAB94Meo'}|199573|5VSAonaAPhhGn0G7
 Out Of Time Man|{'Mick Harvey': '5RyAbJ3y4yw8EbDcRblB8S'}|177440|4CFJqiSoxO6QCRRJtSFPeu|False|Out Of Time Man|2007
 Don't You Want Me|{'The Human League': '1aX2dmV8XoHYCOQRxjPESG'}|236920|3L7RtEcu1Hw3OXrpnthngx|False|Don't You Want Me|1981
 Best of My Love|{'The Emotions': '64CuUOOirKmdAYLQSfaOyr'}|220560|2M2WJ7gBlcKNxdhyfPp9zY|False|Best of My Love|1977
+The Book Of Love|{'Peter Gabriel': '7C4sUpWGlTy7IANjruj02I'}|232613|4TGjfiGfhS8OKXHdghtMh0|False|The Book Of Love|2010
 You Can Call Me Al|{'Paul Simon': '2CvCyf1gEVhI0mX6aFXmVI'}|280000|0qxYx4F3vm1AOnfux6dDxP|False|You Can Call Me Al|1986
 Another Love|{'Tom Odell': '2txHhyCwHjUEpJjWrEyqyX'}|244360|7otCGmgp9h4CsR2LhwB6gt|True|Another Love|2013
 High and Dry|{'Radiohead': '4Z8W4fKeB5YxbusRsdQVPb'}|257480|2a1iMaoWQ5MnvLFBDv4qkf|False|High and Dry|1995
@@ -149,7 +211,7 @@ Moonage Daydream - 2012 Remaster|{'David Bowie': '0oSGxfWSnnOXhD2fKuz2Gy'}|27969
 As It Was|{'Harry Styles': '6KImCVD70vtIoJWnq6nGn3'}|167303|4LRPiXqCikLlN15c3yImP7|False|As It Was|2022
 18 and Life - 2016 Remaster|{'Skid Row': '4opTS86dN9uO313J9CE8xg'}|232301|4JsTntJyyZYu9fBN1alFx1|False|18 and Life|2019
 Time Has Come Today|{'The Chambers Brothers': '0OwaxYpG77PWKSLtj1QzG8'}|290933|5qA1ZrjjVLh1cL9GZOFdNm|False|Time Has Come Today|1996
-I'd Love to Change the World - 2004 Remaster|{'Ten Years After': '7nkLRaWHImCvWGHdNGnhVE'}|224133|19HjHUjCfDrEYhVSIKG6nK|False|I'd Love to Change the World|1971
+I'd Love to Change the World - 2004 Remaster|{'Ten Years After': '7nkLRaWHImCvWGHdNGnhVE'}|224133|7n3WO6ESKS1uCI9fgkGs66|False|I'd Love to Change the World|1971
 The Pusher|{'Steppenwolf': '1WRM9i067hd2ujxxi8FI3m'}|352906|29HbMTL672MugzhklYvStz|False|The Pusher|1968
 Riders on the Storm|{'The Doors': '22WZ7M8sxp5THdruNY3gXt'}|434720|14XWXWv5FoCbFzLksawpEe|False|Riders on the Storm|1971
 Lucy In The Sky With Diamonds - Remastered 2009|{'The Beatles': '3WrFJ7ztbogyGnTHbHJFl2'}|208466|25yQPHgC35WNnnOUqFhgVR|False|Lucy In The Sky With Diamonds|1967
@@ -229,7 +291,7 @@ Let's Dance - 2018 Remaster|{'David Bowie': '0oSGxfWSnnOXhD2fKuz2Gy'}|457675|3ix
 Rebel Rebel - 2016 Remaster|{'David Bowie': '0oSGxfWSnnOXhD2fKuz2Gy'}|274746|2EC9IJj7g0mN1Q5VrZkiYY|False|Rebel Rebel|1974
 Kick|{'Def Leppard': '6H1RjVyNruCmrBEWRbD0VZ'}|222506|0sVq4exSBXyXP86svk8JBV|False|Kick|2022
 Range Rover Bitch|{'Taylor Hawkins': '6bI8H2TnlKYGJSo52wcTP4'}|169853|0CgJ1v2IDbrp4JAYeGhfYz|False|Range Rover Bitch|2016
-Hey Hey Rise Up - feat. Andriy Khlyvnyuk of Boombox|{'Pink Floyd': '0k17h0D3J5VfsdmQ1iZtE9'}|206493|6FsXPr00DJIGSMRLNrmmZy|False|Hey Hey Rise Up|2022
+Hey Hey Rise Up - feat. Andriy Khlyvnyuk of Boombox|{'Pink Floyd': '0k17h0D3J5VfsdmQ1iZtE9'}|206493|2ZUSWhE5jP7CvNItpLyZwA|False|Hey Hey Rise Up|2022
 Lucid Dreams|{'Juice WRLD': '4MCBfE4596Uoi2O4DtmEMz'}|239835|285pBltuF7vW8TeWk8hdRR|True|Lucid Dreams|2018
 Come & Go (with Marshmello)|{'Juice WRLD': '4MCBfE4596Uoi2O4DtmEMz', 'Marshmello': '64KEffDW9EtZ1y2vBYgq8T'}|205484|2Y0wPrPQBrGhoLn14xRYCG|True|Come & Go|2020
 All Girls Are The Same|{'Juice WRLD': '4MCBfE4596Uoi2O4DtmEMz'}|165819|4VXIryQMWpIdGgYR4TrjT1|True|All Girls Are The Same|2018
@@ -265,7 +327,6 @@ Who'll Stop The Rain|{'Creedence Clearwater Revival': '3IYUhFvPQItj6xySrBmZkd'}|
 Maybe I'm Amazed - Live / Remastered|{'Wings': '3sFhA6G1N0gG1pszb6kk1m'}|320613|3rsU41myYJwlHNASyuP5es|False|Maybe I'm Amazed|1976
 Goodbye Moonmen|{'Rick and Morty': '2M0kKcVuBsLFH5d12pW215', 'Jemaine Clement': '1Ymky4GOgYA1NI96FCY8yE', 'Ryan Elder': '4Pb4bahbtpK9nkdfp4bHgi'}|141263|4lcM7UhovQcCa9efiHgPU7|True|Goodbye Moonmen|2018
 He's Gone - Live in Veneta, OR, 8/27/72; 2017 Remaster|{'Grateful Dead': '4TMHGUX5WI7OOm53PqSDAT'}|532600|5wpMrurSuNas33u2a5wz9Z|False|He's Gone|2017
-Rock This Town|{'Stray Cats': '2ibPkysx2PXqWLmxFD7jSg'}|207000|2SknHmwY6GiOv6aK7YRahd|False|Rock This Town|1982
 MIDDLE CHILD|{'J. Cole': '6l3HvQ5sa6mXTsMTB19rO5'}|213593|2JvzF1RMd7lE3KmFlsyZD8|True|MIDDLE CHILD|2019
 Work Out|{'J. Cole': '6l3HvQ5sa6mXTsMTB19rO5'}|235320|2wAJTrFhCnQyNSD3oUgTZO|True|Work Out|2011
 I Still Haven't Found What I'm Looking For|{'U2': '51Blml2LZPmy7TTiAg47vQ'}|277476|6wpGqhRvJGNNXwWlPmkMyO|False|I Still Haven't Found What I'm Looking For|1987
@@ -339,7 +400,7 @@ Help! - Remastered 2015|{'The Beatles': '3WrFJ7ztbogyGnTHbHJFl2'}|139240|3Smida2
 For What It's Worth|{'Liam Gallagher': '6sN51vEARnAAdBw1IKZ8Q9'}|251631|5Ih40KFkj3cSzxgisQxBvX|False|For What It's Worth|2017
 Breakout|{'Foo Fighters': '7jy3rLJdDQY21OgRLCZ9sD'}|200800|2kh0u2d2YKQ7BCqeLPdHk6|False|Breakout|1999
 Caught In The Rain|{'Revis': '4e27lOSzk1nvSxpw2BrrwT'}|210093|1aWjCUq4KU7wCdQ2AuGeB7|False|Caught In The Rain|2003
-Mkultra Victim|{'Negative XP': '6GDYGPbleLhFKnmK4TYhQ7'}|156408|2zFgR16ybPfd4SpjUJtgUG|False|Mkultra Victim|2019
+Mkultra Victim|{'Negative XP': '6GDYGPbleLhFKnmK4TYhQ7'}|156408|7Den5YBzhOkRULoQPIjWTP|False|Mkultra Victim|2022
 Wet Dreamz|{'J. Cole': '6l3HvQ5sa6mXTsMTB19rO5'}|239266|4tqcoej1zPvwePZCzuAjJd|True|Wet Dreamz|2014
 The Weight - Remastered 2000|{'The Band': '4vpDg7Y7fU982Ds30zawDA'}|274493|0P7DoyGrr4Wp9w5TotEtUC|False|The Weight|1968
 Miserlou|{'Dick Dale & His Del-Tones': '7J77vP6EbI63lB3snZeRj4'}|137426|5ZKPYfrfPDMnppinW3Rzxp|False|Miserlou|2006
@@ -404,7 +465,6 @@ I Can't Go for That (No Can Do)|{'Daryl Hall & John Oates': '77tT1kLj6mCWtFNqiOm
 Nineteen Eighty|{'Joe Satriani': '2yzxX2DI9LFK8VFTyW2zZ8'}|215106|4YdJ5R2JZUhB4LkRisgexi|False|Nineteen Eighty|2020
 Smooth Criminal|{'Alien Ant Farm': '6TZdvF1kFzwnQLgHQynzsO'}|209266|5z6xHjCZr7a7AIcy8sPBKy|False|Smooth Criminal|2001
 Rapid Roy (That Stock Car Boy)|{'Jim Croce': '1R6Hx1tJ2VOUyodEpC12xM'}|163346|5Lj3UxGkG7ypLfjV1ajDvb|False|Rapid Roy|1972
-Breakfast at Tiffany's|{'Deep Blue Something': '5N5RfI8FFXk4WQ8kkjE407'}|320400|0SaOhWDuRf7X67Xv9q68QZ|False|Breakfast at Tiffany's|1993
 Boom Boom|{'John Lee Hooker': '1yNOfXGQNGjAynk77wv85x'}|152350|2Mr1bGI2E10K7Mt1UJZ6Mw|False|Boom Boom|1962
 The Zoo|{'Scorpions': '27T030eWyCQRmDyuvr1kxY'}|330533|0YpmF3aZXOIuyi8itZbpkp|False|The Zoo|1980
 Whole Lotta Folsom|{'The Surreal McCoys': '6IUrkUlePukrMPEPEpfrWe'}|236600|1mxnIyCo0WO4iImx6kL3K9|False|Whole Lotta Folsom|2015
@@ -639,7 +699,6 @@ I Can't Tell You Why - 2013 Remaster|{'Eagles': '0ECwFtbIWEVNwjlrfc6xoL'}|295049
 Renegades|{'X Ambassadors': '3NPpFNZtSTHheNBaWC82rB'}|195200|0fYVliAYKHuPmECRs1pbRf|False|Renegades|2015
 Only Wanna Be with You|{'Hootie & The Blowfish': '08ct2eZF5lUPdJpHwNKWof'}|229586|1OFKUn2VLafrHj7ybnap0Q|False|Only Wanna Be with You|1994
 Mr. Brightside|{'The Killers': '0C0XlULifJtAgn6ZNCW2eu'}|222973|003vvx7Niy0yvhvHt4a68B|False|Mr. Brightside|2004
-Mrs. Robinson|{'Simon & Garfunkel': '70cRZdQywnSFp9pnc2WTCE'}|230733|6iKSKHgjyeDhD8iisd4PLL|False|Mrs. Robinson|2001
 Mrs. Robinson - Remastered|{'The Lemonheads': '6w7fc6IZlo5zwBaKT5jU1X'}|224480|5EugXICXL06waHgP4iTI58|False|Mrs. Robinson|1992
 What's Up?|{'4 Non Blondes': '0Je74SitssvJg1w4Ra2EK7'}|295533|0jWgAnTrNZmOGmqgvHhZEm|False|What's Up?|1992
 The Thrill Is Gone|{'B.B. King': '5xLSa7l4IV1gsQfhAMvl0U', 'Tracy Chapman': '7oPgCQqMMXEXrNau5vxYZP'}|301133|3cg0dJfrQB66Qf2YthPb6G|False|The Thrill Is Gone|1997
@@ -849,7 +908,7 @@ Code Red|{'AC/DC': '711MCceyCBcFnzjGY4Q7Un'}|211146|1nuPjx9gZH0aHZt8Q5Njx6|False
 Spaceballs|{'Majestica': '52lkxAYfC9ypaPJ2EB22ki'}|173837|2mBy4IrSd3ARxZyEjEuYDN|False|Spaceballs|2019
 Bring Me To Life|{'Evanescence': '5nGIFgo0shDenQYSE0Sn7c'}|235893|0COqiPhxzoWICwFCS4eZcp|False|Bring Me To Life|2003
 That's All - 2007 Remaster|{'Genesis': '3CkvROUTQ6nRi9yQOcsB50'}|264573|2zFdsAIk9r2Mi7Lmm1w3sM|False|That's All|1983
-Two Princes|{'Spin Doctors': '2PSiyldxmJze7xiqbz658m'}|256733|4ePP9So5xRzspjLFVVbj90|False|Two Princes|1991
+Two Princes|{'Spin Doctors': '2PSiyldxmJze7xiqbz658m'}|256348|4ePP9So5xRzspjLFVVbj90|False|Two Princes|1991
 Back Against the Wall|{'Cage The Elephant': '26T3LtbuGT1Fu9m0eRq5X3'}|228320|0vz64VTiPPBpcmla0QvAI9|False|Back Against the Wall|2009
 How Many More Times - 1993 Remaster|{'Led Zeppelin': '36QJpDe2go2KgaRleHCDTp'}|508000|5VBzIn9cBH4BNa1c6Zilba|False|How Many More Times|1969
 Ring My Bell|{'Anita Ward': '3Dd6jD1AApgtNoU6SJWR7P'}|491933|7GK2KVYH8FrTC9zehmjVMd|False|Ring My Bell|2005
@@ -1231,7 +1290,6 @@ Sweet Dreams (Are Made of This) - Remastered|{'Eurythmics': '0NKDgy9j66h3DLnN8qu
 Lonely Is The Night - Remastered|{'Billy Squier': '3Fz2GbraVXhcpXnoi2Oe1r'}|281453|28eg5bkYvIHT7HPmzZFwLN|False|Lonely Is The Night|1981
 One Love / People Get Ready - Medley|{'Bob Marley & The Wailers': '2QsynagSdAqZj3U9HgDzjD'}|172933|6SR0dDuXH2vtgBfMLrivKV|False|One Love|1977
 Three Little Birds|{'Bob Marley & The Wailers': '2QsynagSdAqZj3U9HgDzjD'}|180266|75FYqcxt1YEAtqDLrOeIJn|False|Three Little Birds|1977
-Sir Duke|{'Stevie Wonder': '7guDJrEfX3qb6FEbdPA5qi'}|232093|6vKSrqeuPqnlsqDbBj6F3n|False|Sir Duke|1999
 Good Vibrations - Remastered 2001|{'The Beach Boys': '3oDbviiivRWhXwIE8hxkVV'}|219026|5t9KYe0Fhd5cW6UYT4qP8f|False|Good Vibrations|1967
 Knockin' On Heaven's Door|{'Bob Dylan': '74ASZWbe4lXaubB36ztrGX'}|149880|6HSXNV0b4M4cLJ7ljgVVeh|False|Knockin' On Heaven's Door|1973
 Lust For Life|{'Iggy Pop': '33EUXrFKGjpUSGacqEHhU4'}|313925|21YxK0klhpfLW8budkJaMF|False|Lust For Life|1977
@@ -1413,7 +1471,6 @@ Under Pressure - Remastered 2011|{'Queen': '1dfeR4HaWDbWqFHLkxsg1d', 'David Bowi
 Photograph|{'Def Leppard': '6H1RjVyNruCmrBEWRbD0VZ'}|247962|18URo35acNKRTHfEdjTcGn|False|Photograph|1983
 Any Way You Want It|{'Journey': '0rvjqX7ttXeg3mTy8Xscbt'}|201693|71SvEDmsOwIWw1IozsZoMA|False|Any Way You Want It|1980
 Juke Box Hero|{'Foreigner': '6IRouO5mvvfcyxtPDKMYFN'}|259800|00qOE7OjRl0BpYiCiweZB2|False|Juke Box Hero|1981
-Crazy Train|{'Ozzy Osbourne': '6ZLTlhejhndI4Rh53vYhrY'}|293183|7ACxUo21jtTHzy7ZEV56vU|False|Crazy Train|2020
 Hooked On A Feeling|{'Blue Swede': '0UpuH5U4nZ3UGGUJi0Zfbp', 'Björn Skifs': '1Ek3VdZ8EPmcvgRIqnHlrF'}|172866|2Nz6aF1umHh5Et6I5H581L|False|Hooked On A Feeling|2014
 Cotton Eye Joe|{'Rednex': '22Zqu1yyebVnbve8FxbJ2g'}|193826|0Jg602cHeMCnPez9baacIe|False|Cotton Eye Joe|1995
 Never Gonna Give You Up|{'Rick Astley': '0gxyHStUsqpMadRV0Di1Qt'}|213573|4cOdK2wGLETKBW3PvgPWqT|False|Never Gonna Give You Up|1987
