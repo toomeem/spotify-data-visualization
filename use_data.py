@@ -1,9 +1,4 @@
-from distutils.log import FATAL
-from tkinter.tix import Tree
-import matplotlib
-import spotipy
 from spotipy import SpotifyOAuth
-import random
 import pandas as pd
 import matplotlib
 from matplotlib import pyplot as plt
@@ -70,7 +65,7 @@ def duration_graph_organization(df):
         durations.append(i)
     for i in df.head(bars_per_half)["raw_name"]:
         names.append(i)
-    names.append("Average")
+    names.append("Average Song")
     durations.append(avg_track)
     for i in df.tail(bars_per_half)["duration"]:
         durations.append(i)
@@ -93,6 +88,7 @@ def get_artist_info(df):
                 artist_dict[artist] += 1
             else:
                 artist_dict.update({artist: 1})
+    artist_dict = dict(sorted(artist_dict.items(), key=lambda item: item[1], reverse=True))
     return artist_dict, len(artist_dict)
 
 
@@ -134,7 +130,7 @@ def get_explicits(data):
             explicits["Clean"] += 1
         else:
             explicits["Unknown"] += 1
-    return explicits
+    return dict(sorted(explicits.items(), key=lambda item: item[1], reverse=True))
 
 
 def get_genres():
@@ -168,7 +164,6 @@ def genre_data_organization():
 
 
 def covers(data):
-    def y(i): return len(i)
     names = data["formatted_name"]
     copies = list(set([i for i in names if list(names).count(i) > 1]))
     return len(copies)
@@ -186,6 +181,7 @@ def release_date_data(data):
             popularity.update({i: 1})
         else:
             popularity[i] += 1
+    popularity = dict(sorted(popularity.items(), key=lambda item: item[1], reverse=True))
     return list(popularity.keys()), list(popularity.values()), last-first
 
 
@@ -222,21 +218,19 @@ def get_show_frequency(data):
         shows.append(i["show"])
     for i in shows:
         show_dict.update({i: shows.count(i)})
-    return show_dict
+    return dict(sorted(show_dict.items(), key=lambda item: item[1], reverse=True))
 
 
 def get_show_durations(data):
-    shows = []
-    durations = []
     show_dict = {}
     for i in data:
-        shows.append(i["show"])
-        durations.append(int(i["duration"]/60))
-    for i in range(len(shows)):
-        if shows[i] in show_dict.keys():
-            show_dict[shows[i]] += durations[i]
-        show_dict.update({shows[i]: durations[i]})
-    return show_dict
+        show = i["show"]
+        duration = int(i["duration"]/60)
+        if show in show_dict.keys():
+            show_dict[show] = show_dict[show] + duration
+        else:
+            show_dict.update({show: duration})
+    return dict(sorted(show_dict.items(), key=lambda item: item[1], reverse=True))
 
 
 data = read_data(divider)
