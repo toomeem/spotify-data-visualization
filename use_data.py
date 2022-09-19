@@ -1,6 +1,6 @@
+from textwrap import wrap
 from spotipy import SpotifyOAuth
 import pandas as pd
-import matplotlib
 from matplotlib import pyplot as plt
 from collections import Counter
 from pprint import pprint  # noqa
@@ -55,28 +55,18 @@ def read_data(divider):
     return df
 
 
-def duration_graph_organization(df):
+def duration_graph_organization(df, bars_per_graph):
     df.sort_values(by=["duration"], ascending=True, inplace=True)
-    avg_track = int(round(df["duration"].sum()/len(df["duration"]), 1))
+    avg_track = int((round(df["duration"].sum()/len(df["duration"]), 1))/60)
     names = []
     durations = []
-    bars_per_half = 3
-    for i in df.head(bars_per_half)["duration"]:
-        durations.append(i)
-    for i in df.head(bars_per_half)["raw_name"]:
-        names.append(i)
-    names.append("Average Song")
+    names.append("Average")
     durations.append(avg_track)
-    for i in df.tail(bars_per_half)["duration"]:
-        durations.append(i)
-    for i in df.tail(bars_per_half)["raw_name"]:
+    for i in df.tail(bars_per_graph)["duration"]:
+        durations.append(i/60)
+    for i in df.tail(bars_per_graph)["formatted_name"]:
         names.append(i)
-    for i in range(len(names)):
-        if "(" in names[i]:
-            names[i] = names[i].split("(")[0]
-        elif " - " in names[i]:
-            names[i] = names[i].split(" - ")[0]
-    return names, durations, len(df)
+    return names, durations, len(df), max(df["duration"]), min(df["duration"])
 
 
 def get_artist_info(df):
@@ -92,18 +82,20 @@ def get_artist_info(df):
     return artist_dict, len(artist_dict)
 
 
-def find_popular(artist_dict):
+def find_popular(artist_dict, artists_per_graph):
     values_list = list(artist_dict.values())
     popularity = {}
     most_popular = []
     uses = []
-    artists_per_graph = 8
     for i in values_list:
         if i not in popularity.keys():
             popularity.update({i: 1})
         else:
             popularity[i] += 1
     use_nums = sorted(popularity.keys(), reverse=True)
+    # top = sorted(artist_dict, key=artist_dict.get, reverse=True)[:30]
+    # for i in top:
+    #     print(f"{i}:{artist_dict[i]}")
     for key in use_nums:
         for artist in artist_dict:
             if artist_dict[artist] == key:
@@ -139,14 +131,13 @@ def get_genres():
     return data
 
 
-def genre_data_organization():
+def genre_data_organization(genres_per_graph):
     data = get_genres()
     # pprint(sorted(data.items(),key=lambda item: item[1], reverse=True))
     values_list = list(data.values())
     popularity = {}
     most_popular = []
     uses = []
-    genres_per_graph = 11
     for i in values_list:
         if i not in popularity.keys():
             popularity.update({i: 1})
@@ -156,7 +147,7 @@ def genre_data_organization():
     for key in use_nums:
         for artist in data:
             if data[artist] == key:
-                most_popular.append(artist)
+                most_popular.append(artist.capitalize())
                 uses.append(key)
         if len(most_popular) >= genres_per_graph:
             break
@@ -181,7 +172,7 @@ def release_date_data(data):
             popularity.update({i: 1})
         else:
             popularity[i] += 1
-    popularity = dict(sorted(popularity.items(), key=lambda item: item[1], reverse=True))
+    popularity = dict(sorted(popularity.items(), key=lambda item: item[0]))
     return list(popularity.keys()), list(popularity.values()), last-first
 
 
@@ -237,15 +228,13 @@ data = read_data(divider)
 fig = plt.figure()
 
 artist_dict, artist_num = get_artist_info(data)
-popular_artists, artist_uses = find_popular(artist_dict)
-duration_names, durations, track_num = duration_graph_organization(data)
+popular_artists, artist_uses = find_popular(artist_dict, 20)
+duration_names, durations, track_num, longest, shortest = duration_graph_organization(data, 20)
 all_durations = data["duration"]
 hours = float(round((all_durations.sum()/60)/60, 1))
 avg_track = int(round(all_durations.sum()/len(all_durations), 1))
-longest_track = int(max(durations))
-shortest_track = int(min(durations))
 explicits = get_explicits(data)
-popular_genres, genres_uses, genre_num = genre_data_organization()
+popular_genres, genres_uses, genre_num = genre_data_organization(20)
 cover_num = covers(data)
 release_decades, release_nums, release_range = release_date_data(data)
 podcast_data = get_podcast_data()
@@ -262,10 +251,10 @@ print(
     f"Your playlist consisted of {artist_num} artists that represented {genre_num} different genres.")
 print("The songs were an average of "+str(avg_track//60) +
       " minutes and "+str(avg_track % 60)+" seconds long.")
-print("The longest song was "+str(longest_track//60) +
-      " minutes and "+str(longest_track % 60)+" seconds long.")
-print("The shortest song was "+str(shortest_track//60) +
-      " minute and "+str(shortest_track % 60)+" seconds long.")
+print("The longest song was "+str(longest//60) +
+      " minutes and "+str(longest % 60)+" seconds long.")
+print("The shortest song was "+str(shortest//60) +
+      " minute and "+str(shortest % 60)+" seconds long.")
 print(f"There were around {cover_num} cover songs.")
 print("")
 print(f"You have {len(podcast_data)} podcast episodes saved that are in total {podcast_hours} hours long.")
@@ -276,23 +265,26 @@ for i in range(2):
 
 show = True
 if True:
+    plt.yticks(fontsize=8)
     plt.title("Most Liked Songs")
-    plt.ylabel("Number of Songs in Playlist")
-    plt.bar(popular_artists, artist_uses)
+    plt.xlabel("Number of Songs in Playlist")
+    plt.barh(popular_artists[::-1], artist_uses[::-1])
 elif True:
-    plt.title("Longest and Shortest Songs")
-    plt.ylabel("Song Duration(Seconds)")
-    plt.bar(duration_names, durations)
+    plt.yticks(fontsize=8)
+    plt.title("Longest Songs")
+    plt.xlabel("Song Duration (minutes)")
+    plt.barh(duration_names, durations)
 elif True:
+    plt.yticks(fontsize=8)
     plt.title("Most Popular Genres")
-    plt.ylabel("Number of Liked Genres")
-    plt.bar(popular_genres, genres_uses)
+    plt.xlabel("Number of Liked Genres")
+    plt.barh(popular_genres[::-1], genres_uses[::-1])
 elif True:
-    plt.title("Number of Explicit Songs", pad=40)
+    plt.title("Number of Explicit Songs(Aproximate)", pad=40)
     plt.pie(x=explicits.values(), labels=explicits.keys(), radius=1.3,
         autopct=lambda pct: auto_pct(pct, list(explicits.values())),)
 elif True:
-    plt.title("Number of Covers")
+    plt.title("Number of Covers(Aproximate)")
     plt.pie(x=[len(data)-cover_num, cover_num], labels=["Originals", "Covers"], pctdistance=.85,
         autopct=lambda pct: auto_pct(pct, [len(data)-cover_num, cover_num]))
 elif True:
@@ -300,7 +292,7 @@ elif True:
     plt.pie(x=release_nums, labels=release_decades, autopct=lambda pct: auto_pct(pct, release_nums),
         pctdistance=.85, labeldistance=1.05)
 elif True:
-    plt.title("Number of Episodes")
+    plt.title(f"Number of Episodes (total {sum(shows.values())})")
     plt.pie(x=shows.values(), labels=shows.keys(),
         autopct=lambda pct: auto_pct(pct, list(shows.values())))
 elif True:

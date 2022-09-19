@@ -1,9 +1,177 @@
+Calling Elvis|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|386733|7tGgPpuXvofKCkjOEmLQ9t|False|Calling Elvis|1991
+Wild West End|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|281600|5EoD2H4HEX3lQd0l7CsHA1|False|Wild West End|1978
+Six Blade Knife|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|253426|7f8mgCngOGhoRNAmhN6GIo|False|Six Blade Knife|1978
+Once Upon a Time in the West|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|325266|6fg1xaDxkuQVJjwrgjx837|False|Once Upon a Time in the West|1979
+Down to the Waterline|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|242600|0NnuQYRXNIzncgftfbTV3P|False|Down to the Waterline|1978
+Tunnel of Love (Intro: The Carousel Waltz)|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|488693|06ku5BBS2HufqSDVkcSR15|False|Tunnel of Love|1980
+Heavy Fuel|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|310706|5rEEkF2wZsHfFHTaEknuji|False|Heavy Fuel|1991
+Skateaway|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|378960|7dRrGFypClyo0iNxSyxpnD|False|Skateaway|1980
+Expresso Love|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|303400|0zUGApAGHySZcuJ70e1rkI|False|Expresso Love|1980
+Water of Love|{'Dire Straits': '0WwSkZ7LtFUFjGjMZBMt6T'}|326640|2whYf5duw5d3N48wEseuXJ|False|Water of Love|1978
+Crown|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg'}|264299|4zMxWSP2qZUy5CBCH5PdzZ|True|Crown|2022
+Miss You - Remastered|{'The Rolling Stones': '22bE4uQ6baNwSHPVcDxLCe'}|288666|3hJLKtTpgct9Y9wKww0BiR|False|Miss You|1978
+Purple Hearts|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg', 'Summer Walker': '57LYzLEk2LcFghVwuWbcuS', 'Ghostface Killah': '6FD0unjzGQhX3b6eMccMJe'}|329295|1REVvAphiSTJyKQ1fDpHa4|True|Purple Hearts|2022
+United In Grief|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg'}|255377|5Gt9bxniM1SxN61yRzRhXL|True|United In Grief|2022
+Count Me Out|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg'}|283642|6BU1RZexmvJcBjgagVVt3M|True|Count Me Out|2022
+I Can Dream About You|{'Dan Hartman': '1HvcqyRLS9nF8hAbTWOqpr'}|249560|37nxLdGbmgEYQYrqe14xOp|False|I Can Dream About You|1987
+Rumour Has It|{'Adele': '4dpARuHxo51G3z768sgnrY'}|223266|2A73XBDBQgmdXO8VsXPWIs|False|Rumour Has It|2011
+Fire and Rain|{'James Taylor': '0vn7UBvSQECKJm2817Yf1P'}|200579|1XUKItaRs2494LclJwHhl8|False|Fire and Rain|1976
+Brown Eyed Girl|{'Reel Big Fish': '3bXhZFreBJF4QDUUiMmtZW'}|184840|2lbAU3IQytWjl9b0LLuztk|False|Brown Eyed Girl|2009
+It's My Life|{'No Doubt': '0cQbJU1aAzvbEmTuljWLlF'}|225866|2fOxxLz9JVe53itq6pfBak|False|It's My Life|2003
+(Sitting On) The Dock Of The Bay|{'Ruby Wilson': '0YtgVYea6ZY5xiUVHnI2LN'}|311546|75XQOZX6njLx55GCQvU1sb|False|(Sitting On) The Dock Of The Bay|2010
+(I Can't Get No) Satisfaction|{'Cat Power': '6G7OerKc3eBO9sVkRNopFC'}|185160|6dv99Xm7fEjm7K1ATHj1UG|False|(I Can't Get No) Satisfaction|2000
+Ring Of Fire|{'Social Distortion': '16nn7kCHPWIB6uK09GQCNI'}|232026|5pr1uTWkj4nwzDx706NVTX|False|Ring Of Fire|2007
+Time After Time|{'Iron & Wine': '4M5nCE77Qaxayuhp3fVn4V'}|170216|5JEM7lT9uSyhUsKFXwGfSm|False|Time After Time|2016
+Three Days|{"Jane's Addiction": '02NfyD6AlLA12crYzw5YcR'}|648506|05AW0o01NVyzWn52uM9boY|False|Three Days|1990
+Doing It All For My Baby|{'Huey Lewis & The News': '7A9yZMTrFZcgEWAX2kBfK6'}|219866|4c6KvhVNtJSCgNV6HfFhln|False|Doing It All For My Baby|1986
+Grease - 2007 Remaster|{'Frankie Valli': '3CDKmzJu6uwEGnPLLZffpD'}|207306|5Vrczz39CvlD3OGCa6utoA|False|Grease|1978
+Machinehead|{'Bush': '78SHxLdtysAXgywQ4vE0Oa'}|256333|6dJODklApmve5IzgKWUqV2|False|Machinehead|2014
+Comedown|{'Bush': '78SHxLdtysAXgywQ4vE0Oa'}|326666|2ox1STg6AbcEHoHWlFtFwr|False|Comedown|2014
+Fell On Black Days|{'Soundgarden': '5xUf6j4upBrXZPg6AI4MRK'}|283026|1wlKw9NAWVWpx7OIAyg9EA|False|Fell On Black Days|1994
+Black Hole Sun|{'Soundgarden': '5xUf6j4upBrXZPg6AI4MRK'}|318586|2EoOZnxNgtmZaD8uUmz2nD|False|Black Hole Sun|1994
+Plush - 2017 Remaster|{'Stone Temple Pilots': '2UazAtjfzqBF0Nho2awK4z'}|313946|0CkspLl535ZxdwCRs8AdZ4|False|Plush|1992
+Drown|{'The Smashing Pumpkins': '40Yq4vzPs9VNUrIBG5Jr2i'}|270400|3eMYc6FK9XvyauIaxcJtRS|False|Drown|2001
+Boys Don't Cry - Single Version|{'The Cure': '7bu3H8JO7d0UbMoVzbo70s'}|157533|4dneV7C1yDt9UtyxrQY375|False|Boys Don't Cry|1979
+Friday I'm in Love|{'The Cure': '7bu3H8JO7d0UbMoVzbo70s'}|214400|263aNAQCeFSWipk896byo6|False|Friday I'm in Love|1992
+See You Again (feat. Kali Uchis)|{'Tyler, The Creator': '4V8LLVI7PbaPR0K2TGSxFF', 'Kali Uchis': '1U1el3k54VvEUzo3ybLPlM'}|180386|7KA4W4McWYRpgf0fWsJZWB|True|See You Again|2017
+Remedy|{'The Black Crowes': '5krkohEVJYw0qoB5VWwxaC'}|322640|217a9W3cZ3ur40RFQW2pTo|False|Remedy|1992
+Wild Horses - 2009 Mix|{'The Rolling Stones': '22bE4uQ6baNwSHPVcDxLCe'}|341773|52dm9op3rbfAkc1LGXgipW|False|Wild Horses|1971
+Lovesong - 2010 Remaster|{'The Cure': '7bu3H8JO7d0UbMoVzbo70s'}|209573|0X5C4WjQNubRysTkHOubz3|False|Lovesong|1989
+Been Caught Stealing|{"Jane's Addiction": '02NfyD6AlLA12crYzw5YcR'}|213293|51Gkc1TxvyQ9K8y0pQRmQM|False|Been Caught Stealing|1990
+Can I Kick It?|{'A Tribe Called Quest': '09hVIj6vWgoCDtT03h8ZCa'}|251573|3Ti0GdlrotgwsAVBBugv0I|False|Can I Kick It?|1990
+Fire Woman|{'The Cult': '49DW3KvkyjHO35mK1JnSyS'}|307960|2rbcCco3PrSyMinVJdh61J|False|Fire Woman|1989
+Spooky|{'Atlanta Rhythm Section': '0WgyCbru4tXnMsbTmX4mFw'}|308026|4GWQYgA00ta6S6mI9YXXif|False|Spooky|2007
+Me and Julio Down by the Schoolyard|{'Paul Simon': '2CvCyf1gEVhI0mX6aFXmVI'}|164813|6vxHp3CDNo0afgKGp2yi1E|False|Me and Julio Down by the Schoolyard|1972
+Dirty Work|{'Steely Dan': '6P7H3ai06vU1sGvdpBwDmE'}|187400|0s1aSsYlLIEiy16LjFWbdp|False|Dirty Work|1972
+Ambient Gold|{'StreamBeats by Harris Heller': '6GTRLqqiBPUqaOgyxOraHp'}|163200|6pj4OkmtopjsGBzXBvcHHH|False|Ambient Gold|2020
+Them Bones|{'Alice In Chains': '64tNsm6TnZe2zpcMVMOoHL'}|149466|4A065x9kJt955eGVqf813g|False|Them Bones|1992
+Life|{'Chocolate Genius Incorporated': '1FFFa130FeOx5o2lTB1dUB'}|218173|55ff19JAKcm6WdghUGJC6b|False|Life|1998
+Good Morning Freedom|{'Blue Mink': '0hUyd9GtnzL8NysCiaxCcv'}|170800|4T4BywmbKw480Z3qyk51XI|False|Good Morning Freedom|2002
+Angie - Remastered|{'The Rolling Stones': '22bE4uQ6baNwSHPVcDxLCe'}|271293|5FQdAbZKZWwgeWTqTFVVMo|False|Angie|1975
+A Forest - 2006 Remaster|{'The Cure': '7bu3H8JO7d0UbMoVzbo70s'}|354933|3O4TPMOgChXOerSdB5WENH|False|A Forest|1980
+Close to Me - 2006 Remaster|{'The Cure': '7bu3H8JO7d0UbMoVzbo70s'}|203266|7ABE6G4uQxbNtYgVrpBBPA|False|Close to Me|1985
+Bring It On Home to Me|{'Sam Cooke': '6hnWRPzGGKiapVX1UCdEAC'}|164252|5EoYc5wvRYOtkudLfrjsL1|False|Bring It On Home to Me|1962
+No Woman No Cry|{'Tems': '687cZJR45JO7jhk1LHIbgq', 'Marvel': '3JKb5kVdAbFREFnHtwhBKa'}|213860|6jo1FMdBzPKofW4iPIdQkR|False|No Woman No Cry|2022
+just like heaven|{'The Lumineers': '16oZKvXb6WkQlVAjwo2Wbg'}|204003|5snEypyfTFFdSldNJWakwW|False|just like heaven|2022
+Come Out and Play|{'The Offspring': '5LfGQac0EIXyAN8aUwmNAQ'}|197800|5JJDu0Z5DKe7mR31MGksSg|False|Come Out and Play|1994
+We Never Have Sex Anymore|{'The Offspring': '5LfGQac0EIXyAN8aUwmNAQ'}|210786|3rqXh9yVOCPHGUjaW2a200|False|We Never Have Sex Anymore|2021
+This Is Not Utopia|{'The Offspring': '5LfGQac0EIXyAN8aUwmNAQ'}|158333|7JmbtvmRa0ujQc7HXesX5G|False|This Is Not Utopia|2021
+Let The Bad Times Roll|{'The Offspring': '5LfGQac0EIXyAN8aUwmNAQ'}|198546|0O2UONKvVfdwDyefKh5Yo1|True|Let The Bad Times Roll|2021
+Self Esteem|{'The Offspring': '5LfGQac0EIXyAN8aUwmNAQ'}|257826|1FkoVC85Ds3mFoK0fVqEqP|False|Self Esteem|1994
+In the Aeroplane Over the Sea|{'Neutral Milk Hotel': '2ooIqOf4X2uz4mMptXCtie'}|202346|5rfT032kGmLvbxZzfHlu5D|False|In the Aeroplane Over the Sea|1998
+Ode To The Mets|{'The Strokes': '0epOFNiUfyON9EYx7Tpr6V'}|351786|1BLOVHYYlH4JUHQGcpt75R|False|Ode To The Mets|2020
+Never Tear Us Apart|{'INXS': '1eClJfHLoDI4rZe5HxzBFv'}|185694|1qQSRy9DjrGh3jtsSCU6B1|False|Never Tear Us Apart|1987
+ARE WE STILL FRIENDS?|{'Tyler, The Creator': '4V8LLVI7PbaPR0K2TGSxFF'}|265480|5TxRUOsGeWeRl3xOML59Ai|True|ARE WE STILL FRIENDS?|2019
+Wild Wild Horses|{'Atmosphere': '1GAS0rb4L8VTPvizAx2O9J'}|254933|686nwMlAHVCEK8XW1jWxJ9|True|Wild Wild Horses|2008
+American Boy|{'Estelle': '5T0MSzX9RC5NA6gAI6irSn', 'Kanye West': '5K4W6rqBFWDnAN6FQUkS6x'}|284733|22UDw8rSfLbUsaAGTXQ4Z8|True|American Boy|2008
+Rose Tattoo|{'Dropkick Murphys': '7w9jdhcgHNdiPeNPUoFSlx'}|306520|4bLKGUkVRxIyrN1770DdDm|False|Rose Tattoo|2013
+Do I Wanna Know?|{'Arctic Monkeys': '7Ln80lUS6He07XvHI8qqHH'}|272394|5FVd6KXrgO9B3JPmC8OPst|False|Do I Wanna Know?|2013
+Sky Might Fall|{'Kid Cudi': '0fA0VVWsXO9YnASrzqfmYu'}|220906|6gyaXDZS45uIpyETSTibQ9|True|Sky Might Fall|2009
+Roundabout - 2003 Remaster|{'Yes': '7AC976RDJzL2asmZuz7qil'}|510573|0YveezON7jpiaHA8fnUHxN|False|Roundabout|1971
+If It Were Me|{'Glow!': '7bWhprEBI3iMP5ZSw7p5tL'}|196645|7lDPr3wYYKewaye3RHRXZx|False|If It Were Me|2019
+All You Can Do|{'Watsky': '3mJ9GlkLzj8Ka7Z7EQaCMi', 'Jimetta Rose': '7FjGU7aqZcwNk3ICLLmcSX'}|246653|0CMV0xFmCnp8V0C6C6pFrf|True|All You Can Do|2014
+Lazy Eye|{'Silversun Pickups': '6qyi8X6MdP1lu6B1K6yh3h'}|354360|1aDLUzCyYpRXgrjwUWzV2X|False|Lazy Eye|2006
+Movin' Out (Anthony's Song)|{'Billy Joel': '6zFYqv1mOsgBRQbae3JJ9e'}|210760|16GUMo6u3D2qo9a19AkYct|False|Movin' Out|1977
+Right Place Wrong Time|{'Dr. John': '320TrJub4arztwXRm7kqVO'}|175240|0I2ELF6uHlL4ABu9aFiou7|False|Right Place Wrong Time|1973
+Bad Company - 2015 Remaster|{'Bad Company': '5AEG63ajney2BoDXi0Vb84'}|288053|36vTL8WP4ZoD1bbUaW0V3E|False|Bad Company|1974
+Everything Zen|{'Bush': '78SHxLdtysAXgywQ4vE0Oa'}|278133|7waRjsA2ehXv619f47lYOT|False|Everything Zen|2014
+How Bizarre|{'OMC': '4vdt8TD56jjQfmxFCmhubX'}|224200|0wJyFu6JHwUoKQN5X3uzVe|False|How Bizarre|1996
+Pete x Bas x Fumez the Engineer - Plugged In|{'Fumez The Engineer': '0ksX396B3t2Gt8kwr0BJZk', 'Pete & Bas': '4if49KlQEdVNk97CQYSFvt'}|249931|1liZ6b5Pb9MImC8Ia2v7qE|True|Pete x Bas x Fumez the Engineer|2021
+Abracadabra|{'Steve Miller Band': '6QtGlUje9TIkLrgPZrESuk'}|308373|2E2ZVy2fxslpAUgbb4zu84|False|Abracadabra|1982
+Twistin' the Night Away|{'Sam Cooke': '6hnWRPzGGKiapVX1UCdEAC'}|159853|7FS541dJh3iQAEXEZoDhE6|False|Twistin' the Night Away|1962
+The Generals Corner (Pete & Bas)|{'Kenny Allstar': '2abTBfFq5PSoASI2PSysLV', 'Pete & Bas': '4if49KlQEdVNk97CQYSFvt'}|128450|2Zmhn2vetZbljDsAGwDO0a|True|The Generals Corner|2021
+Browns|{'Pete & Bas': '4if49KlQEdVNk97CQYSFvt'}|153495|5ZeuRytj9nmWmMwUQvYgLv|True|Browns|2022
+Quick Little Freestyle|{'Pete & Bas': '4if49KlQEdVNk97CQYSFvt'}|150931|6vwc5SnEwl9dtzfHKcPYtr|False|Quick Little Freestyle|2019
+The Old Estate|{'Pete & Bas': '4if49KlQEdVNk97CQYSFvt', 'M24': '601bmA9VRZnMVclsxG7W6T'}|236571|7j3z6ddMlm2VCvTe1wWeVG|True|The Old Estate|2020
+Mr Worldwide|{'Pete & Bas': '4if49KlQEdVNk97CQYSFvt'}|181254|21m2jxB9DSn9ZkFsGip8fd|False|Mr Worldwide|2022
+Dazed and Confused - 1990 Remaster|{'Led Zeppelin': '36QJpDe2go2KgaRleHCDTp'}|386373|6hu1f1cXSw7OAqhpSQ2zDy|False|Dazed and Confused|1969
+Suite: Judy Blue Eyes - 2005 Remaster|{'Crosby, Stills & Nash': '2pdvghEHZJtgSXZ7cvNLou'}|444053|2PuUFT13yCzUOZun94WOXv|False|Suite: Judy Blue Eyes|1969
+Just a Friend|{'Biz Markie': '22282KfMxDo2PMjnBc82I4'}|238266|3yNVfRQlUPViUh8O2V9SQn|False|Just a Friend|1994
+Pressure|{'Billy Joel': '6zFYqv1mOsgBRQbae3JJ9e'}|280333|3LqvmDtXWXjF7fg8mh8iZh|False|Pressure|1982
+Season of the Witch|{'Donovan': '6vLlQYujOujIrm7zAKzEdG'}|293933|6MOEQCtAWNSCmvg3SFKF5y|False|Season of the Witch|1966
+Going to California - Remaster|{'Led Zeppelin': '36QJpDe2go2KgaRleHCDTp'}|212160|70gbuMqwNBE2Y5rkQJE9By|False|Going to California|1971
+No Quarter - Remaster|{'Led Zeppelin': '36QJpDe2go2KgaRleHCDTp'}|422517|0GRBFjza23Im7Xb16c9AaK|False|No Quarter|1973
+Vienna|{'Billy Joel': '6zFYqv1mOsgBRQbae3JJ9e'}|214240|4U45aEWtQhrm8A5mxPaFZ7|False|Vienna|1977
+You're Gonna Go Far, Kid|{'The Offspring': '5LfGQac0EIXyAN8aUwmNAQ'}|177826|6TfBA04WJ3X1d1wXhaCFVT|True|You're Gonna Go Far, Kid|2008
+goosebumps|{'Travis Scott': '0Y5tJX1MQlPlqiwlOH1tJY'}|243836|6gBFPUFcJLzWGx4lenP6h2|True|goosebumps|2016
+Am I Wrong|{'Nico & Vinz': '0awl5piYwO0CDTHEkCjUhn'}|245866|1fidCEsYlaVE3pHwKCvpFZ|False|Am I Wrong|2014
+Dancing In the Dark|{'Bruce Springsteen': '3eqjTLE0HfPfh78zjh6TqT'}|241306|7FwBtcecmlpc1sLySPXeGE|False|Dancing In the Dark|1984
+Check It Out|{'John Mellencamp': '3lPQ2Fk5JOwGWAF3ORFCqH'}|259226|2PZFLJLct6yrvBcCNEkAw0|False|Check It Out|1987
+Man in the Mirror|{'Michael Jackson': '3fMbdgg4jU18AjLCKBhRSm'}|319306|2u2udGmop1z67EPpr91km7|False|Man in the Mirror|1995
+Feels Like Summer|{'Childish Gambino': '73sIBHcqh3Z3NyqHKZ7FOL'}|297404|7p4vHnYXkxlzvfePJVpcTr|False|Feels Like Summer|2018
+Les|{'Childish Gambino': '73sIBHcqh3Z3NyqHKZ7FOL'}|317293|0mCVNGC4Vvb6gDDQrDpaRh|True|Les|2011
+Me and Your Mama|{'Childish Gambino': '73sIBHcqh3Z3NyqHKZ7FOL'}|379226|31tf1qEai5o5f4r66Kd0pU|False|Me and Your Mama|2016
+3005|{'Childish Gambino': '73sIBHcqh3Z3NyqHKZ7FOL'}|234215|2ZltjIqztEpZtafc8w0I9t|True|3005|2013
+Redbone|{'Childish Gambino': '73sIBHcqh3Z3NyqHKZ7FOL'}|326933|0wXuerDYiBnERgIpbb3JBR|True|Redbone|2016
+Bonfire|{'Childish Gambino': '73sIBHcqh3Z3NyqHKZ7FOL'}|192946|799f6Ih1Pu4AUApMyXhxUc|True|Bonfire|2011
+Bicycle Race - Remastered 2011|{'Queen': '1dfeR4HaWDbWqFHLkxsg1d'}|180813|3lUx27TOwV2nAiKwnYYXxe|False|Bicycle Race|1978
+Loving Cup|{'The Rolling Stones': '22bE4uQ6baNwSHPVcDxLCe'}|264266|34OzAaQeAWlFnZBSyUAtRh|False|Loving Cup|1972
+Ol' 55 - 2013 Remaster|{'Eagles': '0ECwFtbIWEVNwjlrfc6xoL'}|261238|0pH4QNsSphVLCy9zjPzqiP|False|Ol' 55|1974
+Go Your Own Way|{'The Cranberries': '7t0rwkOPGlDPEhaOcVtOt9'}|241960|0VuhdSYkAOmhASbt5vnkdO|False|Go Your Own Way|1996
+Believe In Yourself (From "Arthur")|{'Geek Music': '4TkCMPznXOjlsYLfzIU1rw'}|120168|1mRmjZNFFjD23AGokkcvLr|False|Believe In Yourself|2021
+Kids In America|{'Kim Wilde': '73a6pNH4YtLNgDbPQwXveo'}|205533|1YGZyfvdgZxzipWoWYVKxi|False|Kids In America|1981
+Feeling Good|{'Muse': '12Chz98pHFMPJEknJQMWvI'}|198800|5Yj4AP0JGQWierBFKdKVyS|False|Feeling Good|2001
+The Tide Is High|{'Blondie': '4tpUmLEVLCGFr93o8hFFIB'}|282160|1jLRap9S6KxWpzlxBqYh17|False|The Tide Is High|1981
+Landslide - Remastered|{'The Smashing Pumpkins': '40Yq4vzPs9VNUrIBG5Jr2i'}|190586|6N7JMoaUYgo4pwPgsnSobr|False|Landslide|1994
+Beat It|{'Fall Out Boy': '4UXqAaa6dQYAk18Lv7PEgX', 'John Mayer': '0hEurMDQu99nJRq8pTxO14'}|229400|4OMsAnt8JSBctSJQIMNAy1|False|Beat It|2009
+White Wedding|{'Queens of the Stone Age': '4pejUc4iciQfgdX6OKulQn'}|230800|0k93KjYDdohqDvo1Jp92LQ|False|White Wedding|2007
+Ring of Fire|{'Social Distortion': '16nn7kCHPWIB6uK09GQCNI'}|230773|3hKScGxI28Zor6zJ7JL7aS|False|Ring of Fire|1990
+I Fought the Law|{'The Clash': '3RGLhK1IP9jnYFH4BRFJBS'}|163240|7lSDCrF11sdTVfjbAQVZE8|False|I Fought the Law|2013
+Counting Stars|{'OneRepublic': '5Pwc4xIPtQLFEnJriah9YJ'}|257839|6sy3LkhNFjJWlaeSMNwQ62|False|Counting Stars|2014
+A Sky Full of Stars|{'Coldplay': '4gzpq5DPGxSnKTe4SA8HAU'}|267866|0FDzzruyVECATHXKHFs9eJ|False|A Sky Full of Stars|2014
+Best Day Of My Life|{'American Authors': '0MlOPi3zIDMVrfA9R04Fe3'}|194240|5Hroj5K7vLpIG4FNCRIjbP|False|Best Day Of My Life|2014
+Faucet Failure|{'Ski Mask The Slump God': '2rhFzFmezpnW82MNqEKVry'}|145626|1ThmUihH9dF8EV08ku5AXN|True|Faucet Failure|2018
+Let It Eat (feat. Ugly God)|{'Comethazine': '1iJdyDcY98X3GMnUesl7tf', 'Ugly God': '3Fdm9TFJQCLmC3AWMuGExi'}|87313|6f1dn2ECCotPvBlRXY2TUF|True|Let It Eat|2018
+Walk|{'Comethazine': '1iJdyDcY98X3GMnUesl7tf'}|96063|0sVcnEo2jnUnr3p7uVDZ9o|True|Walk|2018
+Betty (Get Money)|{'Yung Gravy': '2YOYua8FpudSEiB9s88IgQ'}|146470|4cacyP5c3PMlfnyjpg13xW|False|Betty|2022
+Come a Little Closer|{'Cage The Elephant': '26T3LtbuGT1Fu9m0eRq5X3'}|229346|4sebUbjqbcgDSwG6PbSGI0|False|Come a Little Closer|2013
+Easy Lover|{'Philip Bailey': '6ZNeppgfBLPUyugks9Yn1u', 'Phil Collins': '4lxfqrEsLX6N1N4OCSkILp'}|305866|5LYJ631w9ps5h9tdvac7yP|False|Easy Lover|1984
+worldstar money (interlude)|{'Joji': '3MZsBdqDrRTJihTHQrO6Dq'}|126312|0baNzeUcPQnQSagpe8T0mD|True|worldstar money|2018
+December|{'Collective Soul': '4e5V1Q2dKCzbLVMQ8qbTn6'}|285000|7GNLvWRG9itrCk0zarYKmQ|False|December|1995
+Corduroy - Remastered|{'Pearl Jam': '1w5Kfo2jwwIPruYS2UWh56'}|277586|5F6rwEF15hN1jnhNk2YQHn|False|Corduroy|1994
+Unglued - 2019 Remaster|{'Stone Temple Pilots': '2UazAtjfzqBF0Nho2awK4z'}|154306|24U1h00cprjT12WiDL1YX8|False|Unglued|1994
+Sanctuary|{'Joji': '3MZsBdqDrRTJihTHQrO6Dq'}|180018|5F1ZmucV0uJY14y2dYKePa|False|Sanctuary|2020
+SLOW DANCING IN THE DARK|{'Joji': '3MZsBdqDrRTJihTHQrO6Dq'}|209273|0rKtyWc8bvkriBthvHKY8d|True|SLOW DANCING IN THE DARK|2018
+Moonlight Sonata (First Movement from Piano Sonata No. 14, Op. 27 No. 2)|{'Ludwig van Beethoven': '2wOqMjp9TyABvtHdOSOTUS', 'Luke Woodapple': '2KNwx5UTputMUl54ggtPpK'}|294883|7xfSCgVOkQJhVxnqzepATH|False|Moonlight Sonata|2017
+Bagatelle No. 25 in A Minor, WoO 59 "Für Elise"|{'Ludwig van Beethoven': '2wOqMjp9TyABvtHdOSOTUS', 'Igor Levit': '0japPUWMmW3gxqjSB1VEVL'}|212066|3zLTPuucd3e6TxZnu2dlVS|False|Bagatelle No. 25 in A Minor, WoO 59 "Für Elise"|2015
+Blue Morning, Blue Day|{'Foreigner': '6IRouO5mvvfcyxtPDKMYFN'}|192973|4qVhRdxvVdlPn3D0i0UFt2|False|Blue Morning, Blue Day|1978
+Glimpse of Us|{'Joji': '3MZsBdqDrRTJihTHQrO6Dq'}|233456|6xGruZOHLs39ZbVccQTuPZ|False|Glimpse of Us|2022
+Same In The End|{'Sublime': '0EdvGhlC1FkGItLOWQzG4J'}|156160|3kGt9uxpJzKTxwp2uJHrU5|False|Same In The End|1996
+YEAH RIGHT|{'Joji': '3MZsBdqDrRTJihTHQrO6Dq'}|174357|1VGzxJnVQND7Cg5H5wGj14|True|YEAH RIGHT|2018
+Fire On High|{'Electric Light Orchestra': '7jefIIksOi1EazgRTfW2Pk'}|331573|6ERo8kpCGTbCEWHWyZQOJ7|False|Fire On High|1975
+Love Of My Life - Remastered 2011|{'Queen': '1dfeR4HaWDbWqFHLkxsg1d'}|217400|790YJcgHlN3SaosQCHlWzn|False|Love Of My Life|1975
+Crazy Little Thing Called Love - Remastered 2011|{'Queen': '1dfeR4HaWDbWqFHLkxsg1d'}|163373|35ItUJlMtjOQW3SSiTCrrw|False|Crazy Little Thing Called Love|1980
+Radio Ga Ga - Remastered 2011|{'Queen': '1dfeR4HaWDbWqFHLkxsg1d'}|348226|1HmzAZUvhQLhLo2z3ocpZI|False|Radio Ga Ga|1984
+A Kind Of Magic - Remastered 2011|{'Queen': '1dfeR4HaWDbWqFHLkxsg1d'}|264253|1LFK84nUerBbYfFd1LmnTm|False|A Kind Of Magic|1986
+Hammer To Fall|{'Queen': '1dfeR4HaWDbWqFHLkxsg1d'}|266600|2GCFcbxm61rSA8gzsDk6NJ|False|Hammer To Fall|1984
+Come Dancing|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|236735|0cTwMCvozZBj8jCq6o27nk|False|Come Dancing|1983
+Don't Look Back|{'Boston': '29kkCKKGXheHuoO829FxWK'}|360333|4QySZtWymRGNgrwxZOODKF|False|Don't Look Back|1978
+Big Shot|{'Billy Joel': '6zFYqv1mOsgBRQbae3JJ9e'}|243493|22wxe2Yc9JzihICXYLGAQ7|False|Big Shot|1978
+Every Little Thing She Does Is Magic|{'The Police': '5NGO30tJxFlKixkPSgXcFE'}|260573|44aTAUBF0g6sMkMNE8I5kd|False|Every Little Thing She Does Is Magic|1981
+Squeeze Box|{'The Who': '67ea9eGLXYMsO2eYQRui3w'}|161440|4lzNP52B3CfeVr2drfPh6X|False|Squeeze Box|1975
+Golden Years - 2016 Remaster|{'David Bowie': '0oSGxfWSnnOXhD2fKuz2Gy'}|243280|4JRem7xHp2l0kmUvt9zCKu|False|Golden Years|1976
+Tie Your Mother Down - Remastered 2011|{'Queen': '1dfeR4HaWDbWqFHLkxsg1d'}|286693|6K8gEgGkOyD1wFY3kAcyOy|False|Tie Your Mother Down|1976
+China Girl - 2018 Remaster|{'David Bowie': '0oSGxfWSnnOXhD2fKuz2Gy'}|333816|5Ei9o2fHEnfHb84YrPuz4v|False|China Girl|1983
+Dreams|{'The Cranberries': '7t0rwkOPGlDPEhaOcVtOt9'}|271560|4JGKZS7h4Qa16gOU3oNETV|False|Dreams|1993
+You Really Got A Hold On Me - Remastered 2009|{'The Beatles': '3WrFJ7ztbogyGnTHbHJFl2'}|181346|7rgUYidQh5tH0YlXCoKaYJ|False|You Really Got A Hold On Me|1963
+You Can't Hurry Love|{'The Supremes': '57bUPid8xztkieZfS7OlEV'}|167933|1OppEieGNdItZbE14gLBEv|False|You Can't Hurry Love|1966
+Lights - Sped Up Version|{'Ellie Goulding': '0X2BH1fck6amBIoJhDVmmJ', 'Speed Radio': '1YzaVDzA3EdEipDSUeNQER'}|190053|4TZ2Ub8bZh4LTs06eANDXa|False|Lights|2022
+Just Breathe|{'Pearl Jam': '1w5Kfo2jwwIPruYS2UWh56'}|215853|6i81qFkru6Kj1IEsB7KNp2|False|Just Breathe|2009
+Burnin' for You|{'Blue Öyster Cult': '00tVTdpEhQQw1bqdu8RCx2'}|271000|3fkPMWQ6cBNBLuFcPyMS8s|False|Burnin' for You|1981
+Would?|{'Alice In Chains': '64tNsm6TnZe2zpcMVMOoHL'}|206773|5sFDReWLrZHLFZFjHsjUTS|False|Would?|1992
+Twilight Zone|{'Golden Earring': '1iTlOqIrZy8DlvCPJY2sjS'}|478106|3ztKHejzVoxJRKSZHFFMdJ|False|Twilight Zone|2008
+Isis|{'Bob Dylan': '74ASZWbe4lXaubB36ztrGX'}|418293|5j216bw8PG0EcIdfu92k4l|False|Isis|1976
+Hail Mary|{'2Pac': '1ZwdS5xdxEREPySFridCfh'}|312373|2zoobJFEB9h15fjYjRd6oP|True|Hail Mary|1998
+SOLVED THE PROBLEM|{'Comethazine': '1iJdyDcY98X3GMnUesl7tf'}|117073|3gahizdt1kEi5ovjCn6eql|True|SOLVED THE PROBLEM|2019
+Long As I Can See The Light|{'Creedence Clearwater Revival': '3IYUhFvPQItj6xySrBmZkd'}|210866|4Sk6QA0RoRqZ3Hg9TlAX4X|False|Long As I Can See The Light|1970
+Gettin' Jiggy Wit It|{'Will Smith': '41qil2VaGbD194gaEcmmyx'}|227933|0weAUscowxeqDtpCgtbpgp|False|Gettin' Jiggy Wit It|1997
+Patient Number 9 (feat. Jeff Beck)|{'Ozzy Osbourne': '6ZLTlhejhndI4Rh53vYhrY', 'Jeff Beck': '0AD4odMWVQ2wUSlgxOB5Rl'}|441402|6kAOsnRUgp21bPiUoVZeuJ|False|Patient Number 9|2022
 Rock This Town|{'Stray Cats': '2ibPkysx2PXqWLmxFD7jSg'}|207000|2SknHmwY6GiOv6aK7YRahd|False|Rock This Town|1982
 The Diary Of Jane|{'Breaking Benjamin': '5BtHciL0e0zOP7prIHn3pP'}|200213|5m9uiFH9sK5wxRZdfN62n9|False|The Diary Of Jane|2011
 Time After Time|{'Cyndi Lauper': '2BTZIqw0ntH9MvilQ3ewNY'}|241333|7o9uu2GDtVDr9nsR7ZRN73|False|Time After Time|1983
 Love Sosa|{'Chief Keef': '15iVAtD3s3FsQR4w1v6M0P'}|246213|01Lr5YepbgjXAWR9iOEyH1|True|Love Sosa|2012
 Oogum Boogum Song|{'Brenton Wood': '6ohvzFHYmLd05kyYhLui5K'}|186567|4WiGGTl7Kt5vnjQHqwLJy1|False|Oogum Boogum Song|1967
-Wild Child|{'The Black Keys': '7mnBLXK823vNxN3UWB7Gfz'}|164866|0dgAZ1j5irH1FlA5WrpHW4|False|Wild Child|2022
+Wild Child|{'The Black Keys': '7mnBLXK823vNxN3UWB7Gfz'}|164866|02bJ6uGeHKfNOhIc9qyA8e|False|Wild Child|2022
 Crazy Train|{'Ozzy Osbourne': '6ZLTlhejhndI4Rh53vYhrY'}|293183|7ACxUo21jtTHzy7ZEV56vU|False|Crazy Train|2020
 Silver Bird|{'Mark Lindsay': '7kEOMdsEmZkTHgA4ibDz4h'}|183986|5ZV1ZPGSSOkdRG60uTtEmX|False|Silver Bird|1970
 Heaven Beside You|{'Alice In Chains': '64tNsm6TnZe2zpcMVMOoHL'}|327893|1DCdIWCE5UFiObCsTSpKFv|True|Heaven Beside You|1995
@@ -48,6 +216,7 @@ Paper Planes|{'M.I.A.': '0QJIPDAEDILuo8AIq3pMuU'}|205200|1ixbwbeBi5ufN4noUKmW5a|
 Doo Wop (That Thing)|{'Ms. Lauryn Hill': '2Mu5NfyYm8n5iTomuKAEHl'}|320266|0uEp9E98JB5awlA084uaIg|False|Doo Wop|1998
 Redemption Song|{'Bob Marley & The Wailers': '2QsynagSdAqZj3U9HgDzjD'}|233560|26PwuMotZqcczKLHi4Htz3|False|Redemption Song|1980
 Walk on By|{'Dionne Warwick': '2JSjCHK79gdaiPWdKiNUNp'}|178333|3xsOtNxtBW0oTI1OWKAzTm|False|Walk on By|1964
+Unity - 2007 Remaster|{'Operation Ivy': '18XRGxd1b484f2h06cwvJJ'}|133826|2TncdAnbeRHID1yNR8YJC9|True|Unity|1989
 Wake Up|{'Tim Armstrong': '7v3ZMFl1E6X4isdEaOSnk3'}|181826|1CnU1qewM7glU79O4VSlWX|False|Wake Up|2007
 Rudies All Around|{'Hepcat': '79pQC5STz5lsGdkJ0NHmGp'}|255666|19cmDLWfcK6nkwXK3Tfv5x|False|Rudies All Around|1998
 Beer|{'Reel Big Fish': '3bXhZFreBJF4QDUUiMmtZW'}|210533|7qEm8Z4KFLdCMlv96KykVd|False|Beer|1996
@@ -57,7 +226,6 @@ Breakfast At Tiffany's|{'Deep Blue Something': '5N5RfI8FFXk4WQ8kkjE407'}|257373|
 Centuries|{'Fall Out Boy': '4UXqAaa6dQYAk18Lv7PEgX'}|228360|04aAxqtGp5pv12UXAg4pkq|False|Centuries|2015
 Pompeii|{'Bastille': '7EQ0qTo7fWT7DPxmxtSYEc'}|214147|3gbBpTdY8lnQwqxNCcf795|False|Pompeii|2013
 Tusk|{'Fleetwood Mac': '08GQAI4eElDnROBrJRGE0X'}|210173|1iKVDnBTqmZErf96ldGrZe|False|Tusk|1988
-Black Cat Wailing At the Moon|{'Hysteria': '5KPPIs7h2H4mF3kSTf8bGM'}|235687|5WYehxBEiqCsisW4a8o3kz|True|Black Cat Wailing At the Moon|2013
 We Made You|{'Eminem': '7dGJo4pcD2V6oG8kP0tJRR'}|269613|4UMTp91LHhvW33ol9ZQH0Q|False|We Made You|2009
 Peacekeeper|{'Fleetwood Mac': '08GQAI4eElDnROBrJRGE0X'}|250760|47QCcoUKxDP1vuli0LwT8G|False|Peacekeeper|2003
 I Wish|{'Skee-Lo': '55Pp4Ns5VfTSFsBraW7MQy'}|249293|3LklW07tvdx2AHsgfi1Mng|False|I Wish|1995
@@ -77,7 +245,7 @@ Little Lies|{'Fleetwood Mac': '08GQAI4eElDnROBrJRGE0X'}|218040|08o75xMKmGrKny6Gs
 Monday Morning|{'Fleetwood Mac': '08GQAI4eElDnROBrJRGE0X'}|167840|0qjfjKFoP7LaqLI2KI9M1Q|False|Monday Morning|1975
 I'm so Afraid|{'Fleetwood Mac': '08GQAI4eElDnROBrJRGE0X'}|262533|1fXvxcQdz9OEe5IeNHQh72|False|I'm so Afraid|1975
 Tangled up in Blue|{'Bob Dylan': '74ASZWbe4lXaubB36ztrGX'}|341626|6Vcwr9tb3ZLO63F8DL8cqu|False|Tangled up in Blue|1975
-Good Times|{'CHIC': '0Xf8oDAJYd2D0k3NLI19OV'}|495400|6LdxORCLRfmxxAsEc9K7MH|False|Good Times|2005
+Good Times - 2018 Remaster|{'CHIC': '0Xf8oDAJYd2D0k3NLI19OV'}|486186|2wYKNcoqKW4IEcllj42xz1|False|Good Times|1979
 Be My Baby|{'The Ronettes': '7CyeXFnOrfC1N6z4naIpgo'}|160906|2G2YzndIA6jeWFPBXhUjh5|False|Be My Baby|2011
 Papa's Got A Brand New Bag|{'James Brown': '7GaxyUddsPok8BuhxN6OUW'}|128173|00pGV4EInVd77cnOIwPTCv|False|Papa's Got A Brand New Bag|1991
 Suspicious Minds|{'Elvis Presley': '43ZHCT0cAZBISjO8DG9PnE'}|261279|1H5IfYyIIAlgDX8zguUzns|False|Suspicious Minds|1969
@@ -158,10 +326,7 @@ We Cry Together|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg', 'Taylour Paige': '7
 Mother I Sober (feat. Beth Gibbons of Portishead)|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg', 'Beth Gibbons': '6Lt6KFXX3P0v6vfrynQAMo'}|406528|346SJSEbB6pNZMpwovxDiu|True|Mother I Sober|2022
 Auntie Diaries|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg'}|281069|1uY1X8YeBixs1FdQ3fQ7d4|True|Auntie Diaries|2022
 Savior|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg', 'Baby Keem': '5SXuuuRpukkTvsLuUknva1', 'Sam Dew': '1SIw8nXWjvAKeb6Dhh85cz'}|224466|3drdWsJKiVCSQ2gKhd9BDT|True|Savior|2022
-Savior - Interlude|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg'}|152985|5G4uLkFKdEZLcuNyeomQmE|True|Savior|2022
 Silent Hill|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg', 'Kodak Black': '46SHBwWsqBkxI7EeeBEQG7'}|220779|3lzUeaCbcCDB5IXYfqWRlF|True|Silent Hill|2022
-Crown|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg'}|264299|4zMxWSP2qZUy5CBCH5PdzZ|True|Crown|2022
-Count Me Out|{'Kendrick Lamar': '2YZyLoL8N0Wb9xBt1NhZWg'}|283642|6BU1RZexmvJcBjgagVVt3M|True|Count Me Out|2022
 Call to Arms|{'Sturgill Simpson': '3vDpQbGnzRbRVirXlfQagB'}|329640|4m1opmaYT9zk5OP7IHUb9R|True|Call to Arms|2016
 Cold Hard Bitch|{'Jet': '5ypxebeHEIXjMtJb17uJlI'}|243200|5u6fnmRO5V0PTl5M2Eekeu|False|Cold Hard Bitch|2003
 Rockixe|{'Raul Seixas': '7jrRQZg4FZq6dwpi3baKcu'}|225893|3mHDy8H5SmPk79Y5pLHUE7|False|Rockixe|1973
@@ -175,7 +340,6 @@ Break on Through (To the Other Side)|{'The Doors': '22WZ7M8sxp5THdruNY3gXt'}|145
 FourFiveSeconds|{'Rihanna': '5pKCCKE2ajJHZ9KAiaK11H', 'Kanye West': '5K4W6rqBFWDnAN6FQUkS6x', 'Paul McCartney': '4STHEaNw4mPZ2tzheohgXB'}|188238|78TTtXnFQPzwqlbtbwqN0y|False|FourFiveSeconds|2015
 A Change Is Gonna Come|{'Sam Cooke': '6hnWRPzGGKiapVX1UCdEAC'}|191160|0KOE1hat4SIer491XKk4Pa|False|A Change Is Gonna Come|1964
 You Make Me Feel So Young - Remastered 1998|{'Frank Sinatra': '1Mxqyy3pSjf8kZZL4QVxS0'}|177400|2WaYW84yWij5NSCpgSeU2R|False|You Make Me Feel So Young|1956
-Hello Hello|{'Elton John': '3PhoLpVuITZKcymswpck5b'}|224826|51jloR6rJcBkT1f8n3paRW|False|Hello Hello|2011
 Puttin' on the Ritz|{'Taco': '6Dxf1ZaJBrpbumiqTTnlIH'}|281160|1taGkdO3DQsNRIQrarhVvc|False|Puttin' on the Ritz|1982
 1979 - Remastered 2012|{'The Smashing Pumpkins': '40Yq4vzPs9VNUrIBG5Jr2i'}|266200|5QLHGv0DfpeXLNFo7SFEy1|False|1979|1995
 Shining Star|{'Earth, Wind & Fire': '4QQgXkCYTt3BlENzhyNETg'}|170160|0RgcOUQg4qYAEt9RIdf3oB|False|Shining Star|1975
@@ -311,8 +475,7 @@ Mama, I'm Coming Home|{'Ozzy Osbourne': '6ZLTlhejhndI4Rh53vYhrY'}|251866|0S3gpZz
 Float On|{'Modest Mouse': '1yAwtBaoHLEDWAnWR87hBT'}|208466|2lwwrWVKdf3LR9lbbhnr6R|False|Float On|2004
 What It's Like|{'Everlast': '14ZxDAK6ITtZZqPdiWrvSn'}|303133|6vUPPEN2V2lZ78b6DyEIjZ|True|What It's Like|1998
 We Belong|{'Pat Benatar': '43mhFhQ4JAknA7Ik1bOZuV'}|221133|665Jxlgi1HamPKbW1vwzx4|False|We Belong|1984
-Been Caught Stealing - 2006 Remaster|{"Jane's Addiction": '02NfyD6AlLA12crYzw5YcR'}|214760|4HAgmbnzspnBAGhmY0CysE|False|Been Caught Stealing|2006
-Home Sweet Home - 2021 - Remaster|{'Mötley Crüe': '0cc6vw3VN8YlIcvr1v7tBL'}|239080|2C0hJUVjp7FSchyhYiceJq|False|Home Sweet Home|1985
+Home Sweet Home|{'Mötley Crüe': '0cc6vw3VN8YlIcvr1v7tBL'}|239080|2C0hJUVjp7FSchyhYiceJq|False|Home Sweet Home|1985
 Could You Be Loved|{'Bob Marley & The Wailers': '2QsynagSdAqZj3U9HgDzjD'}|237000|5O4erNlJ74PIF6kGol1ZrC|False|Could You Be Loved|1980
 Sit Next to Me|{'Foster The People': '7gP3bB2nilZXLfPHJhMdvc'}|243146|4BdGO1CaObRD4La9l5Zanz|False|Sit Next to Me|2017
 Rape Me|{'Nirvana': '6olE6TJLqED3rqDCT0FyPh'}|170000|5Rizj5FLb2AyNKu9esjYY6|False|Rape Me|1993
@@ -322,7 +485,6 @@ Last Night on Earth|{'Green Day': '7oPftvlwr6VrsViSDV7fJY'}|236533|5TpPSTItCwtZ8
 Give Me Novacaine / She's a Rebel|{'Green Day': '7oPftvlwr6VrsViSDV7fJY'}|326200|11I3KKHv7g2pXiuqRDabRA|False|Give Me Novacaine|2004
 Jesus of Suburbia|{'Green Day': '7oPftvlwr6VrsViSDV7fJY'}|548253|58KPPL1AdLHMvR2O2PZejr|True|Jesus of Suburbia|2004
 Forget You|{'CeeLo Green': '5nLYd9ST4Cnwy6NHaCxbj8'}|222733|7AqISujIaWcY3h5zrOqt5v|False|Forget You|2010
-Miss You - Remastered|{'The Rolling Stones': '22bE4uQ6baNwSHPVcDxLCe'}|288666|3hJLKtTpgct9Y9wKww0BiR|False|Miss You|1978
 Who'll Stop The Rain|{'Creedence Clearwater Revival': '3IYUhFvPQItj6xySrBmZkd'}|147493|3Bh6uInhcVBVvLraGZdkKD|False|Who'll Stop The Rain|1970
 Maybe I'm Amazed - Live / Remastered|{'Wings': '3sFhA6G1N0gG1pszb6kk1m'}|320613|3rsU41myYJwlHNASyuP5es|False|Maybe I'm Amazed|1976
 Goodbye Moonmen|{'Rick and Morty': '2M0kKcVuBsLFH5d12pW215', 'Jemaine Clement': '1Ymky4GOgYA1NI96FCY8yE', 'Ryan Elder': '4Pb4bahbtpK9nkdfp4bHgi'}|141263|4lcM7UhovQcCa9efiHgPU7|True|Goodbye Moonmen|2018
@@ -453,7 +615,7 @@ Oh Well|{'Jimmy Page': '55bGuHb50r5c0PeqqMeNBV', 'The Black Crowes': '5krkohEVJY
 Unbelievable|{'EMF': '39oSLGo3HkaeYXzUEGgAGQ'}|209813|5VYTKiOnHw4iTrB9pG3yum|True|Unbelievable|1991
 Mirror In the Bathroom|{'The English Beat': '1eVEVL20zNLcGrPDOR691N'}|190333|3LUhdkixxrrqv3nfNfkINe|False|Mirror In the Bathroom|2012
 Holiday Road|{'The Dahlmanns': '1SE2EOLh3kfW3yIy5sZmy7'}|126590|3fbEJUHclPwXlICSNV9y4k|False|Holiday Road|2010
-Solid Rock - Remastered Version|{'Goanna': '4kmYEa0DFPDv2Opcpjv5el'}|275226|18PsAoBaEHQZRUxigLP8QJ|False|Solid Rock|2003
+Solid Rock - Remastered Version|{'Goanna': '4kmYEa0DFPDv2Opcpjv5el'}|275226|1yeCajimfmJA0yAjwUScQf|False|Solid Rock|1982
 The Boys of Summer|{'The Ataris': '3LC8PXXgk7YtAIobtjSdNi'}|258000|5BmagRD7Thki6O1zZwbxBy|False|The Boys of Summer|2003
 Classical Gas|{'Mason Williams': '1XgVoPT2Va5L64LFzskVBW'}|184800|4DK3JpX2NkEMhCnltUEvUg|False|Classical Gas|1968
 Bad Penny|{'Rory Gallagher': '1kcWyDvrlPUbyxkIoM6pAV'}|245377|3DmHaJ9zYKj5Snos05lkVF|False|Bad Penny|1979
@@ -582,7 +744,6 @@ Are You Gonna Go My Way|{'Lenny Kravitz': '5gznATMVO85ZcLTkE9ULU7'}|211933|45Ia1
 Better Days (And the Bottom Drops Out)|{'Citizen King': '2Ca9nb6MJ3lwyF7dRNJm3M'}|207026|460Wn6Dq2uMviG5nPXtPnb|False|Better Days|1999
 Live Forever|{'Oasis': '2DaxqgrOhkeH0fpeiQq2f4'}|276866|5IfBLN9VPPJOwcKmAZhdXe|False|Live Forever|1994
 Goodbye Yellow Brick Road - Remastered 2014|{'Elton John': '3PhoLpVuITZKcymswpck5b'}|192826|4IRHwIZHzlHT1FQpRa5RdE|False|Goodbye Yellow Brick Road|1973
-Plush|{'Stone Temple Pilots': '2UazAtjfzqBF0Nho2awK4z'}|310400|2TAQ9YGehOKWDqDak5DuXc|False|Plush|2003
 Don't Look Back In Anger - Remastered|{'Oasis': '2DaxqgrOhkeH0fpeiQq2f4'}|289560|12dU3vAh6AFoJkisorfoUl|False|Don't Look Back In Anger|1995
 Livin' On A Prayer|{'Bon Jovi': '58lV9VcRSjABbAbfWS6skp'}|249293|37ZJ0p5Jm13JPevGcx4SkF|False|Livin' On A Prayer|1986
 It's All Over Now|{'The Dirty Dozen Brass Band': '6F6lawSnwGWWgdXFN7LXO7'}|296400|5gIq1Qkrdw5bMbLGeaYw0q|False|It's All Over Now|1989
@@ -598,7 +759,6 @@ King of the Road - Re-recorded|{'Roger Miller': '1RP2UpEaRzkF0Id3JigqD8'}|149400
 This Is a Call|{'Foo Fighters': '7jy3rLJdDQY21OgRLCZ9sD'}|233360|2wO8aOvN1ogLy1N8XT1WJE|False|This Is a Call|1995
 Lightning Crashes|{'Live': '6eoJpTIlcuxJNjV5fDzDJH'}|325600|48iWbsOaBUAGzMdoSmqyg1|False|Lightning Crashes|1994
 Lump|{'The Presidents Of The United States Of America': '1lZvg4fNAqHoj6I9N8naBM'}|134200|0BkfgzhxeFtLBbmTjbPJ97|False|Lump|1995
-Fell On Black Days|{'Soundgarden': '5xUf6j4upBrXZPg6AI4MRK'}|283026|21HWc9gFZKNdkGzGqHLq3A|False|Fell On Black Days|1994
 Somebody to Shove|{'Soul Asylum': '02da1vDJ2hWqfK7aJL6SJm'}|194733|41TVMXb9THdtTlo2KojUDe|False|Somebody to Shove|1992
 Take A Picture|{'Filter': '01WjpKiWVNurV5hjIadB8C'}|363800|6q4aoWgTQ8td2AvqQXuFqm|False|Take A Picture|1999
 Girl From Mars|{'Ash': '2evydP72Z45DouM4uMGsIE'}|210200|1mppNVGh4ipsxIWUUA0QiH|False|Girl From Mars|1996
@@ -681,7 +841,6 @@ Many Men (Wish Death)|{'50 Cent': '3q7HBObVc0L8jNeTe5Gofh'}|256226|2I9foKseoFQh0
 Dreadlock Holiday|{'10cc': '6i6WlGzQtXtz7GcC5H5st5'}|267946|1LOZMYF5s8qhW7Rv4w2gun|False|Dreadlock Holiday|1978
 Aqualung|{'Jethro Tull': '6w6z8m4WXX7Tub4Rb6Lu7R'}|396186|5UuikgHTxSRFRnC0zXx10i|False|Aqualung|1971
 I Believe in a Thing Called Love|{'The Darkness': '5r1bdqzhgRoHC3YcCV6N5a'}|217653|756CJtQRFSxEx9jV4P9hpA|False|I Believe in a Thing Called Love|2003
-Black Hole Sun|{'Soundgarden': '5xUf6j4upBrXZPg6AI4MRK'}|318586|2EoOZnxNgtmZaD8uUmz2nD|False|Black Hole Sun|1994
 Long Cool Woman (In a Black Dress) - 1999 Remaster|{'The Hollies': '6waa8mKu91GjzD4NlONlNJ'}|199200|5UwbnHhjnbinJH8TefuQfN|False|Long Cool Woman|1971
 New York Groove|{'Ace Frehley': '62olK5zZHSgFUXGDykgBL8'}|183693|1BvpeiApX8qhof8Pmi3YlH|False|New York Groove|1978
 Running on Empty|{'Jackson Browne': '5lkiCO9UQ8B23dZ1o0UV4m'}|291893|6aqm56xP40foYBBtAWWrnY|False|Running on Empty|1978
@@ -825,7 +984,7 @@ Soul to Squeeze|{'Red Hot Chili Peppers': '0L8ExT028jH3ddEcZwqJJ5'}|289533|3arKR
 Last of the Steam-Powered Trains - 2018 Stereo Remaster|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|253066|0qvxKCuZN6ytXtM6fkLbgD|False|Last of the Steam-Powered Trains|1968
 (Wish I Could Fly Like) Superman|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|216968|5IPEy9jMguqxZzAiZVNSiV|False|(Wish I Could Fly Like) Superman|1979
 Victoria - Mono Mix|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|220053|34UnzNK51PfiYFrEgc9lrD|False|Victoria|1969
-The Contenders|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|161960|2trpkXI4Oro7ep9yrLpVa8|False|The Contenders|1970
+The Contenders - 2014 Remastered Version|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|163320|23NKCqt9rrOZ1VQNwop49P|False|The Contenders|2014
 Set Me Free|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|129779|6KeQfvgHCce8WzR7USII57|False|Set Me Free|1965
 Better Things - Single Version|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|178480|5w4jBDFePf19XrftHEXSZ5|False|Better Things|1986
 Keep on Loving You|{'REO Speedwagon': '55vs7NT1KxcFjbMC4y202E'}|200293|4rcHWl68ai6KvpXlc8vbnE|False|Keep on Loving You|1980
@@ -976,12 +1135,10 @@ Do You Remember Rock 'n' Roll Radio? - 2002 Remaster|{'Ramones': '1co4F2pPNH8JjT
 Dancing Is What to Do|{'Ray-X': '71yUgAEgyT66SuoDHKFNwh'}|257071|34xLCJSfCdBPcPxZTRezwS|False|Dancing Is What to Do|2019
 Black|{'Pearl Jam': '1w5Kfo2jwwIPruYS2UWh56'}|342653|5Xak5fmy089t0FYmh3VJiY|False|Black|1991
 Breakdown|{'Tom Petty and the Heartbreakers': '4tX2TplrkIP4v05BNC903e'}|163893|5x53pbGk6sbl1BGom19QQ5|False|Breakdown|1976
-Lola|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|241040|0UAJH0k4k3slcE83a9UGCe|False|Lola|1970
+Lola - 2020 Stereo Remaster|{'The Kinks': '1SQRv42e4PjEYfPhS0Tk9E'}|241991|4ZKgPZ9d4V5WW6H2s4qMD3|False|Lola|1970
 Low Rider|{'War': '3ICyfoySNDZqtBVmaBT84I'}|190826|7Bz8yww6UMbTgTVLG6zbI4|False|Low Rider|1975
 Burning Down the House|{'Talking Heads': '2x9SpqnPi8rlE9pjHBwmSC'}|241920|2VNfJpwdEQBLyXajaa6LWT|False|Burning Down the House|1983
 Show Me The Way|{'Peter Frampton': '0543y7yrvny4KymoaneT4W'}|243266|6BD1X1PeV5UzYUdiVaD2yL|False|Show Me The Way|1975
-Dazed And Confused|{'Led Zeppelin': '36QJpDe2go2KgaRleHCDTp'}|400146|2uZbkta7TdIuEjqfvLGcfw|False|Dazed And Confused|1997
-Wild Horses|{'The Rolling Stones': '22bE4uQ6baNwSHPVcDxLCe'}|342586|4M4Q3JLsUbyTkd5WHty1WB|False|Wild Horses|1971
 Space Oddity - 2015 Remaster|{'David Bowie': '0oSGxfWSnnOXhD2fKuz2Gy'}|318026|72Z17vmmeQKAg8bptWvpVG|False|Space Oddity|1969
 The Rythm of the Night|{'Gliese': '7jndhVwt15TAfplhIp39rO'}|265107|72vzpLLJZgvG7TqKar57TX|False|The Rythm of the Night|2013
 You Should Be Dancing|{'Bee Gees': '1LZEQNv7sE11VDY3SdxQeN'}|256453|4T5Y25pWs2pVZVcFIqFuf8|False|You Should Be Dancing|2009
@@ -1277,7 +1434,7 @@ Fa Fa|{'Guster': '34XlPCFfB4vT7P1ekWq9Jc'}|283960|1yFgCrFRaaSpsvtIiqe4O8|False|F
 Too Late For Goodbyes|{'Julian Lennon': '4Tvos0a5rRrBu4Oodu5f79'}|214645|2SPU97neddixGZ3wCMLAwx|False|Too Late For Goodbyes|1984
 I'm Free (Heaven Helps the Man) - From "Footloose" Soundtrack|{'Kenny Loggins': '3Y3xIwWyq5wnNHPp5gPjOW'}|226266|03xU1bLqUkwo4ae3flK5Di|False|I'm Free|2014
 Night Moves|{'Bob Seger': '485uL27bPomh29R4JmQehQ'}|324422|6UBjSnyP1O5W5ndJoO9vUk|False|Night Moves|1976
-Barbara Ann - Remastered|{'The Beach Boys': '3oDbviiivRWhXwIE8hxkVV'}|128089|2pw36KAhXcFPmYaPHmuMNd|False|Barbara Ann|2003
+Barbara Ann - Single Version / Remastered 2001|{'The Beach Boys': '3oDbviiivRWhXwIE8hxkVV'}|128089|2pw36KAhXcFPmYaPHmuMNd|False|Barbara Ann|2003
 Well All Right|{'Blind Faith': '5GUVj2b1lJ4DolQyHlzyaO'}|267000|3p0dqXyYn3ZpJmPiUpisCl|False|Well All Right|1969
 Promises|{'Eric Clapton': '6PAt558ZEZl0DmdXlnjMgD'}|181226|1oar8gdDX5yHWzVstAHDav|False|Promises|1978
 Black Betty|{'Ram Jam': '6FITmSxIMsk6TfulFiCIIz'}|238973|6kooDsorCpWVMGc994XjWN|False|Black Betty|1977

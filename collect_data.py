@@ -149,6 +149,7 @@ def remaster(sp, data):
     def release_date(i): return int(dict(i["album"])["release_date"][:4])
     for i in range(len(data)):
         name = data["formatted_name"][i].lower()
+        name = name[0:len(name) if len(name)<30 else 30]
         artist = list(eval(data["artists"][i]).keys())[0].lower()
         q = f"artist:'{artist}' track:'{name}'"
         try:
@@ -172,13 +173,22 @@ def remaster(sp, data):
             print(raw_data[i])
             return
         print(str(round((i/length)*100, 1))+"%")
+    print("100.0%")
     with open(r"C:\\Users\etoom\python files\spotipy\track_data.txt", "w") as data_file:
         data_file.writelines(raw_data)
 
 
 def podcasts(sp):
     podcast_strings=[]
-    raw_podcasts = dict(sp.current_user_saved_episodes())["items"]
+    max_podcast_request = True
+    raw_podcasts = []
+    n = 0
+    while max_podcast_request:
+        new_podcast_request = dict(sp.current_user_saved_episodes(offset = n))["items"]
+        raw_podcasts.extend(new_podcast_request)
+        if len(new_podcast_request)<20:
+            max_podcast_request = False
+        n+=20
     name=""
     show=""
     duration=""
@@ -189,6 +199,8 @@ def podcasts(sp):
         show=dict(podcast["show"])["name"]
         duration=int(podcast["duration_ms"]/1000)
         podcast_strings.append(f"{show}/{duration}/{name}\n")
+    for i in range(len(podcast_strings)):
+        podcast_strings[i] = podcast_strings[i].encode("ASCII", "ignore").decode("ASCII")
     with open(r"C:\\Users\etoom\python files\spotipy\podcast_data.txt", "w") as podcast_file:
         podcast_file.writelines(podcast_strings)
 
@@ -205,7 +217,7 @@ for i in range(10):
     print(" ")
 
 print("Would you like to get accurate release dates for of all your liked songs?(y/n)")
-print("It should take 3-5 mins.")
+print("It should take 4-7 mins.")
 get_dates = str(input()) == "y"
 if get_dates:
     remaster(sp, read_data(divider))
@@ -213,7 +225,7 @@ get_genres(sp, divider)
 podcasts(sp)
 get_all_songs(sp)
 
-total_time = round(time.time()-start, 1)
+total_time = round(time.time()-start, 0)
 if total_time<=60:
     print("Completed successfully in "+str(int(total_time % 60))+" seconds")
 else:
