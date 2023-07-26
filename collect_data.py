@@ -1,12 +1,16 @@
 import time
-start = time.time()
 import threading
 import spotipy
 from spotipy import SpotifyOAuth
 from collections import Counter
 from pprint import pprint # noqa
 import json
+from dotenv import load_dotenv
+import os
 
+start = time.time()
+
+load_dotenv()
 
 def format_song_name(song_name):
 	song_name = song_name.split(" (")[0]
@@ -93,15 +97,10 @@ def podcasts(sp):
 		json.dump(podcasts, podcast_file)
 
 
-ID = "b95f6a39d55e4ee4bb0a1e7e64ccaf2b"
-<<<<<<< HEAD
-SECRET = "c14a3bf94565468fa97c2ebd76c73757"
-=======
-SECRET = "nice try"
-divider = "|"
->>>>>>> 268b9e36302002bb2c19fdb3e90cb9875f19f4e5
+client_id = os.getenv("SPOTIFY_CLIENT_ID")
+client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
 
-spotify_client = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=ID, client_secret=SECRET,
+spotify_client = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id, client_secret=client_secret,
 	redirect_uri="http://www.evantoomey.com/", scope="user-library-read"))
 
 
