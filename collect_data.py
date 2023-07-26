@@ -94,7 +94,12 @@ def podcasts(sp):
 
 
 ID = "b95f6a39d55e4ee4bb0a1e7e64ccaf2b"
+<<<<<<< HEAD
 SECRET = "c14a3bf94565468fa97c2ebd76c73757"
+=======
+SECRET = "nice try"
+divider = "|"
+>>>>>>> 268b9e36302002bb2c19fdb3e90cb9875f19f4e5
 
 spotify_client = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=ID, client_secret=SECRET,
 	redirect_uri="http://www.evantoomey.com/", scope="user-library-read"))
