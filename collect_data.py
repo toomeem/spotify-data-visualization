@@ -3,12 +3,11 @@ import threading
 import spotipy
 from spotipy import SpotifyOAuth
 from collections import Counter
-from pprint import pprint # noqa
+from pprint import pprint
 import json
 from dotenv import load_dotenv
 import os
 
-start = time.time()
 
 load_dotenv()
 
@@ -148,15 +147,6 @@ client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
 spotify_client = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id, client_secret=client_secret,
 	redirect_uri="http://www.evantoomey.com/", scope="user-library-read"))
 
-
 threading.Thread(target=podcasts, args=(spotify_client,)).start()
 threading.Thread(target=get_genres, args=(spotify_client,)).start()
 get_all_songs(spotify_client)
-
-
-total_time = round(time.time()-start, 0)
-if total_time<=60:
-	print("Completed successfully in "+str(int(total_time % 60))+" seconds")
-else:
-	print("Completed successfully in "+str(int(total_time/60)) +
-		" minutes and "+str(int(total_time % 60))+" seconds")

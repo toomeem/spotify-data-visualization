@@ -1,6 +1,4 @@
-import pandas as pd
 from matplotlib import pyplot as plt
-from collections import Counter
 from pprint import pprint
 import numpy as np
 import json
@@ -13,7 +11,6 @@ def read_spotify_data():
 	with open("tracks.json") as data_file:
 		data = list(json.load(data_file)["data"])
 	return data, len(data)
-
 
 def duration_graph_organization(data, bars_per_graph):
 	maxes, durations = [], []
@@ -31,12 +28,11 @@ def duration_graph_organization(data, bars_per_graph):
 		if duration < list(shortest.keys())[0]:
 			shortest = {duration: i["formatted_name"]}
 		durations.append(duration)
-	avg_track = round(np.mean(durations)/1000)
+	avg_track = round(np.mean(a=durations)/1000)
 	maxes.sort(key=lambda x: list(x.keys())[0], reverse=True)
 	longest = round(int(list(maxes[0].keys())[0])/1000)
 	shortest = round(int(list(shortest.keys())[0])/1000)
 	return maxes, avg_track, longest, shortest
-
 
 def get_artist_info(data):
 	artist_dict = {}
@@ -47,7 +43,6 @@ def get_artist_info(data):
 			else:
 				artist_dict.update({artist["name"]: 1})
 	return artist_dict, len(artist_dict)
-
 
 def find_popular(artist_dict, artists_per_graph):
 	values_list = list(artist_dict.values())
@@ -69,7 +64,6 @@ def find_popular(artist_dict, artists_per_graph):
 				break
 	return most_popular, uses
 
-
 def get_explicits(data):
 	explicits = {"Explicit": 0, "Clean": 0, "Unknown": 0}
 	for item in data:
@@ -82,7 +76,6 @@ def get_explicits(data):
 	if explicits["Unknown"] == 0:
 		del explicits["Unknown"]
 	return explicits
-
 
 def genre_data_organization(genres_per_graph):
 	with open("genres.json") as data_file:
@@ -106,12 +99,10 @@ def genre_data_organization(genres_per_graph):
 			break
 	return most_popular, uses, len(data)
 
-
 def covers(data):
 	names = [i["formatted_name"] for i in data]
 	copies = list(set([i for i in names if list(names).count(i) > 1]))
 	return len(copies)
-
 
 def release_date_data(data):
 	yrs = [int(i["album"]["release_date"][:4]) for i in data]
@@ -128,24 +119,20 @@ def release_date_data(data):
 	popularity = dict(sorted(popularity.items(), key=lambda item: item[0]))
 	return list(popularity.keys()), list(popularity.values()), last-first
 
-
 def auto_pct(pct, allvalues):
 	absolute = int(pct / 100.*np.sum(allvalues))
 	return "{:.1f}%\n({:d})".format(pct, absolute)
-
 
 def get_podcast_data():
 	with open("podcasts.json") as data_file:
 		data = json.load(data_file)
 	return data
 
-
 def get_podcast_duration(data):
 	total = 0
 	for i in data:
 		total += i["duration_ms"]
 	return total
-
 
 def get_show_frequency(data):
 	shows = []
@@ -155,7 +142,6 @@ def get_show_frequency(data):
 	for i in shows:
 		show_dict.update({i: shows.count(i)})
 	return show_dict
-
 
 def get_show_durations(data):
 	show_dict = {}
@@ -170,16 +156,12 @@ def get_show_durations(data):
 
 
 data, track_num = read_spotify_data()
-fig = plt.figure()
-
 artist_dict, artist_num = get_artist_info(data)
 popular_artists, artist_uses = find_popular(artist_dict, 20)
 durations, avg_track_len, longest, shortest = duration_graph_organization(data, 20)
 duration_names = [list(i.values())[0] for i in durations][::-1]
 duration_values = [list(i.keys())[0] for i in durations][::-1]
-all_durations = 0
-for i in data:
-	all_durations += i["duration_ms"]
+all_durations = sum([i["duration_ms"] for i in data])
 hours = float(round((all_durations/(60*1000))/60, 1))
 explicits = get_explicits(data)
 popular_genres, genres_uses, genre_num = genre_data_organization(20)
