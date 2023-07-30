@@ -28,9 +28,9 @@ def format_song_name(song_name):
 	return song_name
 
 def format_artist(artist_dict):
-	artist_dict.pop("external_urls")
-	artist_dict.pop("href")
-	artist_dict.pop("uri")
+	del artist_dict["external_urls"]
+	del artist_dict["href"]
+	del artist_dict["uri"]
 	return artist_dict
 
 def format_track(song):
@@ -42,24 +42,24 @@ def format_track(song):
 	song["added_at"] = added
 	song["formatted_name"] = format_song_name(song["name"])
 	try:
-		song["album"].pop("available_markets")
+		del song["album"]["available_markets"]
 	except KeyError:
 		pass
-	song["album"].pop("external_urls")
-	song["album"].pop("href")
-	song["album"].pop("images")
-	song["album"].pop("uri")
+	del song["album"]["external_urls"]
+	del song["album"]["href"]
+	del song["album"]["images"]
+	del song["album"]["uri"]
 	song["album"]["artists"] = [format_artist(i) for i in song["album"]["artists"]]
 	song["artists"] = [format_artist(i) for i in song["artists"]]
 	try:
-		song.pop("available_markets")
+		song["available_markets"]
 	except KeyError:
 		pass
-	song.pop("external_ids")
-	song.pop("external_urls")
-	song.pop("href")
-	song.pop("preview_url")
-	song.pop("uri")
+	del song["external_ids"]
+	del song["external_urls"]
+	del song["href"]
+	del song["preview_url"]
+	del song["uri"]
 	song["artist_num"] = len(song["artists"])
 	return song
 
@@ -70,28 +70,28 @@ def format_podcast(podcast):
 	else:
 		added = None
 	podcast["added_at"] = added
-	podcast.pop("audio_preview_url")
-	podcast.pop("external_urls")
-	podcast.pop("href")
-	podcast.pop("html_description")
-	podcast.pop("images")
-	podcast.pop("is_externally_hosted")
-	podcast.pop("language")
-	podcast.pop("languages")
-	podcast.pop("uri")
+	del podcast["audio_preview_url"]
+	del podcast["external_urls"]
+	del podcast["href"]
+	del podcast["html_description"]
+	del podcast["images"]
+	del podcast["is_externally_hosted"]
+	del podcast["language"]
+	del podcast["languages"]
+	del podcast["uri"]
 	podcast["show"] = format_podcast_show(podcast["show"])
 	return podcast
 
 def format_podcast_show(show):
-	show.pop("available_markets")
-	show.pop("copyrights")
-	show.pop("external_urls")
-	show.pop("href")
-	show.pop("html_description")
-	show.pop("images")
-	show.pop("is_externally_hosted")
-	show.pop("languages")
-	show.pop("uri")
+	del show["available_markets"]
+	del show["copyrights"]
+	del show["external_urls"]
+	del show["href"]
+	del show["html_description"]
+	del show["images"]
+	del show["is_externally_hosted"]
+	del show["languages"]
+	del show["uri"]
 	return show
 
 def get_all_songs(spotify_client):
@@ -104,6 +104,8 @@ def get_all_songs(spotify_client):
 		raw_data = dict(spotify_client.current_user_saved_tracks(
 			limit=50, market="US", offset=offset))
 		data_list.extend([format_track(i) for i in raw_data["items"]])
+	if len(data_list) != playlist_len:
+		pprint(len(data_list))
 	with open("tracks.json", "w") as data_file:
 		json.dump({"data":data_list}, data_file)
 
